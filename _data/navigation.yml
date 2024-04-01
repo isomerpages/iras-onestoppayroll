@@ -1,7 +1,7 @@
 logo: /images/agencies_logo.png
 links:
   - title: About
-    url: /about-osp/
+    url: /about/
   - title: Partner With Us
     url: /permalink
   - title: Resources
@@ -10,3 +10,6 @@ links:
     url: /permalink
   - title: Contact Us
     url: /contact-us/
+  - title: About
+    url: /permalink
+    sublinks: []
