@@ -36,7 +36,7 @@ description: ""
 <p>62973398</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sales@info-tech.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@info-tech.com.sg</a> 
+<p><a href="mailto:sales@info-tech.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@info-tech.com.sg</a>
 </p>
 </td>
 </tr>
@@ -52,8 +52,8 @@ description: ""
 <br>31295281</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sales@justlogin.com" rel="noopener noreferrer nofollow" target="_blank">sales@justlogin.com</a>
-<br><a href="mailto:support@justlogin.com" rel="noopener noreferrer nofollow" target="_blank">support@justlogin.com</a> 
+<p><a href="mailto:sales@justlogin.com" rel="noopener noreferrer nofollow" target="_blank">sales@justlogin.com</a> 
+<br><a href="mailto:support@justlogin.com" rel="noopener noreferrer nofollow" target="_blank">support@justlogin.com</a>
 </p>
 </td>
 </tr>
@@ -69,7 +69,7 @@ description: ""
 <br>88891140</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sales@rockbell.com.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">sales@rockbell.com.sg</a> 
 <br><a rel="noopener noreferrer nofollow" target="_blank">sales@million.sg</a>
 </p>
 </td>
@@ -100,7 +100,7 @@ description: ""
 <p>62951998</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sales@timesoftsg.com.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">sales@timesoftsg.com.sg</a> 
 <br><a rel="noopener noreferrer nofollow" target="_blank">support@timesoftsghelp.zendesk.com</a>
 </p>
 </td>
