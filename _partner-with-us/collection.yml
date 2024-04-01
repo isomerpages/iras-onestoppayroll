@@ -2,4 +2,5 @@ collections:
   partner-with-us:
     output: true
     order:
+      - Onboard as a Business or Employer.md
       - Onboard as a Software Developer.md
