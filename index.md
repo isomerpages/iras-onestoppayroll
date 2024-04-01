@@ -26,7 +26,7 @@ sections:
       description: Infobar description
       button: Button Text
   - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
+      title: Resources, News and Happenings
+      subtitle: Resources
       id: resources
 ---
