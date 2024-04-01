@@ -11,7 +11,7 @@ sections:
       subtitle: Streamlining Payroll, Simplifying Compliance
       background: /images/OSP_Hero_Banner__1920x720_.png
       dropdown:
-        title: Hero Dropdown Title
+        title: I am...
         options: []
   - infobar:
       title: Infobar title
