@@ -31,11 +31,12 @@ sections:
       title: Partner With Us
       subtitle: Collaboration
       id: infopic
-      description: "Explore partnership opportunities with us to streamline and
-        simplify the payroll process for your business and software. "
+      description: Explore partnership opportunities with us to streamline and
+        simplify the payroll process for your business and software.
       button: Learn More
-      alt: Image alt text
+      alt: Partner With Us
       url: /partner-with-us
+      image: /images/partner_with_us.png
   - resources:
       title: Resources, News and Happenings
       subtitle: Resource Room
