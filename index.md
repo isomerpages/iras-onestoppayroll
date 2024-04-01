@@ -17,19 +17,23 @@ sections:
             url: /software-developer
           - title: a Business or Employer
             url: /business-employer
-  - infobar:
+  - infopic:
       title: One-Stop Payroll Vendor Listing
       subtitle: Collaboration
+      id: infopic
       description: Businesses and employers can use payroll software to submit
         employers’ employment and wage-related information to multiple agencies.
       button: View Listing
       url: /osp-vendor-listing
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
+      image: /images/osp_vendor_listing.png
+      alt: OSP Vendor Listing
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
       button: Button Text
+      alt: Image alt text
   - resources:
       title: Resources, News and Happenings
       subtitle: Resource Room
