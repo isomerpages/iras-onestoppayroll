@@ -5,11 +5,12 @@ links:
     sublinks:
       - title: About One-Stop Payroll
         url: /about-osp
-  - title: Partner With Us
-    url: /partner-with-us
   - title: Resources
     resource_room: true
   - title: Vendor Listing
     url: /osp-vendor-listing
   - title: Contact Us
     url: /contact-us/
+  - title: Partner With Us
+    url: /partner-with-us
+    sublinks: []
