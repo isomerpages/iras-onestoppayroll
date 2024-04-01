@@ -19,4 +19,14 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
