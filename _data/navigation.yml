@@ -1,8 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: About
+    url: /example-page/
+  - title: Partner With Us
+    url: /permalink
+  - title: Resources
+    resource_room: true
+  - title: Vendor Listing
+    url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
