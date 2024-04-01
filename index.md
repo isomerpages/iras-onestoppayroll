@@ -27,6 +27,6 @@ sections:
       button: Button Text
   - resources:
       title: Resources, News and Happenings
-      subtitle: Resources
+      subtitle: Resource Room
       id: resources
 ---
