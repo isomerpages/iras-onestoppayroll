@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Partner With Us.md
-      - example-subfolder/.keep
