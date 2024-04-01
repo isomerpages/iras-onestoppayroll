@@ -2,11 +2,11 @@ logo: /images/agencies_logo.png
 links:
   - title: About
     collection: about
+  - title: Partner With Us
+    collection: about
   - title: Vendor Listing
     url: /osp-vendor-listing
   - title: Resources
     resource_room: true
   - title: Contact Us
     url: /contact-us/
-  - title: Partner With Us
-    collection: about
