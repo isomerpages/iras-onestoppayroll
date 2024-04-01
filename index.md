@@ -28,12 +28,14 @@ sections:
       image: /images/osp_vendor_listing.png
       alt: OSP Vendor Listing
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Partner With Us
+      subtitle: Collaboration
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: "Explore partnership opportunities with us to streamline and
+        simplify the payroll process for your business and software. "
+      button: Learn More
       alt: Image alt text
+      url: /partner-with-us
   - resources:
       title: Resources, News and Happenings
       subtitle: Resource Room
