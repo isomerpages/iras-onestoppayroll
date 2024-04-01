@@ -18,11 +18,12 @@ sections:
           - title: a Business or Employer
             url: /business-employer
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: One-Stop Payroll Vendor Listing
+      subtitle: Collaboration
+      description: Businesses and employers can use payroll software to submit
+        employers’ employment and wage-related information to multiple agencies.
+      button: View Listing
+      url: /osp-vendor-listing
   - infobar:
       title: Infobar
       subtitle: Add informational text
