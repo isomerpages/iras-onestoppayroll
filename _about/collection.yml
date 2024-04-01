@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - About.md
-      - faq.md
+      - FAQs.md
       - Useful Links.md
