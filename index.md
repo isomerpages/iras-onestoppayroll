@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: One-Stop Payroll
-      subtitle: Hero subtitle
+      subtitle: Streamlining Payroll, Simplifying Compliance
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
