@@ -10,18 +10,9 @@ sections:
       title: One-Stop Payroll
       subtitle: Streamlining Payroll, Simplifying Compliance
       background: /images/OSP_Hero_Banner__1920x720_.png
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
   - infobar:
       title: Infobar title
       subtitle: Subtitle
