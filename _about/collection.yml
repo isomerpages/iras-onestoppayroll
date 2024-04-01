@@ -2,6 +2,6 @@ collections:
   about:
     output: true
     order:
-      - faq.md
       - About.md
+      - faq.md
       - Useful Links.md
