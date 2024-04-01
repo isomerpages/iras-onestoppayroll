@@ -1,18 +1,12 @@
 logo: /images/agencies_logo.png
 links:
   - title: About
-    url: /permalink
-    sublinks:
-      - title: About One-Stop Payroll
-        url: /about-osp
-  - title: Partner With Us
-    url: /partner-with-us
-    sublinks: []
+    collection: about
   - title: Vendor Listing
     url: /osp-vendor-listing
   - title: Resources
     resource_room: true
   - title: Contact Us
     url: /contact-us/
-  - title: About
+  - title: Partner With Us
     collection: about
