@@ -2,15 +2,15 @@ title: Title
 url: https://www.iras.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#3698d4"
+  secondary-color: "#005aad"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#1173c0"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#ff922c"
     - title: media-color-three
-      color: "#00838f"
+      color: "#21b6b1"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
