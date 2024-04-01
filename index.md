@@ -12,7 +12,11 @@ sections:
       background: /images/OSP_Hero_Banner__1920x720_.png
       dropdown:
         title: I am...
-        options: []
+        options:
+          - title: a Software Developer
+            url: /software-developer
+          - title: a Business or Employer
+            url: /business-employer
   - infobar:
       title: Infobar title
       subtitle: Subtitle
