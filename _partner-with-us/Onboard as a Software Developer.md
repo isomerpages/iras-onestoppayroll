@@ -23,6 +23,6 @@ tempor incididunt ut labore et dolore magna aliqua.</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua.</p>
 <p>
-<br>Linked Resources:</p>
-<p><a href="/files/Infographic_Factsheet_For_SWDs_draft.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographic Factsheet for Software Developers</a>
+<br>Linked Resources:
+<br><a href="/files/Infographic_Factsheet_For_SWDs_draft.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographic Factsheet for Software Developers</a>
 </p>
