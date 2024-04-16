@@ -24,9 +24,9 @@ sections:
       description: The One-Stop Payroll initiative is a joint effort by IRAS, CPFB,
         MOM and GovTech.  that aim to streamline and simplify the payroll
         process for businesses.
-      button: Button Text
+      button: Learn More
       url: /about-osp
-      alt: Learn More
+      alt: About One-Stop Payroll
   - infopic:
       title: One-Stop Payroll Vendor Listing
       subtitle: Collaboration
