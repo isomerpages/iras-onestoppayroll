@@ -24,6 +24,6 @@ tempor incididunt ut labore et dolore magna aliqua.</p>
 tempor incididunt ut labore et dolore magna aliqua.</p>
 <p>
 <br>Linked Resources:
-<br><a href="/files/Infographic_Factsheet_For_SWDs_draft.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographic Factsheet for Software Developers</a>
+<br><a href="/files/Infographic_Factsheet_For_SWDs_draft.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographic Factsheet for Software Developers</a> 
 <br><a href="/files/IRAS_Submission_of_Employment_Income__APEX__API_Services_Interface_Specification_V1.pdf" rel="noopener noreferrer nofollow" target="_blank">IRAS Submission of Employment Income APEX API Services Interface Specification</a>
 </p>
