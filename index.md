@@ -27,6 +27,7 @@ sections:
       button: Learn More
       url: /about-osp
       alt: About One-Stop Payroll
+      image: /images/about_us.png
   - infopic:
       title: One-Stop Payroll Vendor Listing
       subtitle: Collaboration
