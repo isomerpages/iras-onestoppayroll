@@ -50,5 +50,5 @@ sections:
         process for businesses.
       button: Button Text
       url: /about-osp
-      alt: Image alt text
+      alt: Learn More
 ---
