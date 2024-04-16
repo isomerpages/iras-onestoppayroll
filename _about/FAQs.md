@@ -44,31 +44,111 @@ the time and effort needed to meet regulatory obligations. This also helps
 to ensure greater accuracy and reduces the need for employers to reach
 out to agencies for assistance. Additionally, it enables easy compliance
 and has the potential to streamline filing frequencies to agencies in the
-long term.</p>
+long term.
+<br>
+</p>
 </li>
-</ol>
-<p>4. <strong>What is the product in the One-Stop Payroll initiative?  </strong>
+<li>
+<p><strong>What is the product in the One-Stop Payroll initiative? </strong>
 <br>CPFB, IRAS and MOM provide the following submission APIs on GovTech’s
 centralised APEX platform, that are available to software developers and
-partners for integration in their payroll software: Product CPFB’s CPF
-Contributions API IRAS’ Employment Income API MOM’s Workforce Statistics
-API Overview Employers are required to submit monthly CPF contributions
-(and other data) for their employees to CPFB. This API enables employers
-to make such submissions direct from payroll software. Employers with more
-than 5 employees are required to submit yearly employment income information
-electronically to IRAS under the Auto Inclusion Scheme (AIS). This is to
-automatically include the income in employees’ personal income tax returns.
-This API enables employers to file required forms under the AIS and send
-associated data (salary, bonus, CPF, etc.) to IRAS seamlessly. Employers
-are required under the Statistics Act to report changes in their workforce
-composition to MOM under the Occupational Employment Dataset (OED), as
-well as complete quarterly Labour Market Surveys (LMS). This API enables
-employers to report OED and LMS data directly from their payroll software.
-Scope • CPF Contribution • Details • Form IR8A • Form IR8S • Appendix 8A
-• Appendix 8B • Occupational Employment Dataset • Labour market surveys
-Filing Frequency Monthly submission by 14th of the following month. Yearly
-submission by 1 Mar of every year. As and when there are changes; and Quarterly
-respectively.</p>
+partners for integration in their payroll software:</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Product</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>CPFB’s CPF Contributions API</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>IRAS’ Employment Income API</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>MOM’s Workforce Statistics API</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Overview</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Employers are required to submit monthly CPF contributions (and other
+data) for their employees to CPFB. This API enables employers to make such
+submissions direct from payroll software.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Employers with more than 5 employees are required to submit yearly employment
+income information electronically to IRAS under the Auto Inclusion Scheme
+(AIS). This is to automatically include the income in employees’ personal
+income tax returns. This API enables employers to file required forms under
+the AIS and send associated data (salary, bonus, CPF, etc.) to IRAS seamlessly.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Employers are required under the Statistics Act to report changes in their
+workforce composition to MOM under the Occupational Employment Dataset
+(OED), as well as complete quarterly Labour Market Surveys (LMS). This
+API enables employers to report OED and LMS data directly from their payroll
+software.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scope</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>CPF Contribution Details</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Form IR8A</p>
+</li>
+<li>
+<p>Form IR8S</p>
+<p>Appendix 8A</p>
+</li>
+<li>
+<p>Appendix 8B</p>
+</li>
+</ul>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Occupational Employment Dataset</p>
+</li>
+<li>
+<p>Labour market surveys</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Filing Frequency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monthly submission by 14th of the following month.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yearly submission by 1 Mar of every year.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>As and when there are changes; and Quarterly respectively.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</li>
+</ol>
 <ol start="5">
 <li>
 <p><strong>Will the One-Stop Payroll initiative be accessible to all types of businesses? </strong>
