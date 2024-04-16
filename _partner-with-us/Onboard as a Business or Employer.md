@@ -15,6 +15,6 @@ tempor incididunt ut labore et dolore magna aliqua.</p>
 tempor incididunt ut labore et dolore magna aliqua.</p>
 <p></p>
 <p>Linked Resources:
-<br><a href="/files/Infographic_Factsheet_For_Employers_draft.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographic Factsheet for Business or Employer</a>
+<br><a href="/files/Infographic_Factsheet_For_Employers_draft.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographic Factsheet for Business or Employer</a> 
 <br>
 </p>
