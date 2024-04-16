@@ -41,4 +41,14 @@ sections:
       title: Resources, News and Happenings
       subtitle: Resource Room
       id: resources
+  - infopic:
+      title: About One-Stop Payroll
+      subtitle: About Us
+      id: infopic
+      description: The One-Stop Payroll initiative is a joint effort by IRAS, CPFB,
+        MOM and GovTech.  that aim to streamline and simplify the payroll
+        process for businesses.
+      button: Button Text
+      url: /about-osp
+      alt: Image alt text
 ---
