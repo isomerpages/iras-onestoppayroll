@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Overview.md
-      - Onboard as a Software Developer.md
+      - As a Software Developer.md
       - Onboard as a Business or Employer.md
