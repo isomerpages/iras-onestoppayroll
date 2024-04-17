@@ -25,7 +25,7 @@ sections:
         MOM and GovTech.  that aim to streamline and simplify the payroll
         process for businesses.
       button: Learn More
-      url: /about-osp
+      url: /about/about-osp/
       alt: About One-Stop Payroll
       image: /images/about_us_general.png
   - infopic:
