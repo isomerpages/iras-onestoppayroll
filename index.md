@@ -9,7 +9,7 @@ sections:
   - hero:
       title: One-Stop Payroll
       subtitle: Streamlining Payroll, Simplifying Compliance
-      background: /images/OSP_Hero_Banner__1920x720_.png
+      background: /images/Stock_image_1.png
       dropdown:
         title: I am...
         options:
