@@ -4,7 +4,7 @@ permalink: /partner-with-us/software-developer/
 variant: tiptap
 description: ""
 ---
-<h3>Step 1: Create and Setup your APEX account </h3>
+<h3>Step 1: Create and Setup your APEX account</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Complete <a href="https://docs.developer.tech.gov.sg/docs/complete-apex-user-guide/sections/onboarding/introduction?id=corppass-for-non-government-users" rel="noopener noreferrer nofollow" target="_blank">pre-onboarding steps</a> to
