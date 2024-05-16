@@ -4,7 +4,7 @@ permalink: /partner-with-us/software-developer/
 variant: tiptap
 description: ""
 ---
-<h3>Step 1: Create and Setup your APEX account</h3>
+<h3>Step 1: Create and Setup your APEX account (one-time only)</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Complete <a href="https://docs.developer.tech.gov.sg/docs/complete-apex-user-guide/sections/onboarding/introduction?id=corppass-for-non-government-users" rel="noopener noreferrer nofollow" target="_blank">pre-onboarding steps</a> to
@@ -26,17 +26,16 @@ authorize your Organization to the Sandbox APIs.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Log into <a href="https://services.api.developer.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">API Developer Portal</a>,
-ensure that your OAuth 2.1 profile is set up with the necessary JWKS endpoint,
-and that your API key is set up. Check that your Organization is subscribed
-to the OAuth2.1 protected Sandbox APIs.</p>
+ensure that your <a href="https://docs.developer.tech.gov.sg/docs/complete-apex-user-guide/sections/oauth/introduction" rel="noopener noreferrer nofollow" target="_blank">OAuth 2.1</a> profile
+is set up with the necessary JWKS endpoint, and that your API key is set
+up. Check that your Organization is subscribed to the OAuth2.1 protected
+Sandbox APIs.</p>
 </li>
 <li>
 <p>Ensure that you are able to curl to <a rel="noopener noreferrer nofollow" target="_blank">https://sandbox.api.gov.sg/oauth/cp/v2</a>&nbsp;and
 that you get HTTP error 403.</p>
 </li>
 </ul>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://docs.developer.tech.gov.sg/docs/complete-apex-user-guide/sections/oauth/introduction</a>
-</p>
 <h3>Step 4: Compete the CPFB/IRAS/MOM API Testing in Sandbox</h3>
 <ul data-tight="true" class="tight">
 <li>
