@@ -8,6 +8,8 @@ description: ""
 <ul data-tight="true" class="tight">
 <li>
 <p>CPFB Contributions Page</p>
+<p><a href="https://www.cpf.gov.sg/employer/making-cpf-contributions?cid=ms:wp:ospmicrositelaunch:na:usefl" rel="noopener noreferrer nofollow" target="_blank">All about CPF Contribution submission</a>
+</p>
 </li>
 <li>
 <p>GovTech APEX Portal</p>
