@@ -6,7 +6,7 @@ agency_name: One-Stop Payroll Agencies
 contacts:
   - content:
       - phone: ""
-      - email: enquiries@abc.gov.sg
+      - email: one_stop_payroll@cpf.gov.sg
       - other: ""
     title: CPFB
   - content:
@@ -24,5 +24,5 @@ contacts:
       - email: MOM_OED@mom.gov.sg
       - other: ""
     title: MOM
-feedback: ""
+feedback: https://go.gov.sg/ospfeedback
 ---
