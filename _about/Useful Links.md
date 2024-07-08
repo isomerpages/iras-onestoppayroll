@@ -7,7 +7,11 @@ description: ""
 <h1>Useful links</h1>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.cpf.gov.sg/employer/making-cpf-contributions?cid=ms:wp:ospmicrositelaunch:na:usefl" rel="noopener noreferrer nofollow" target="_blank">Making CPF Contributions</a>
+<p><a href="https://www.cpf.gov.sg/employer" rel="noopener noreferrer nofollow" target="_blank">CPFB Employer Obligations and Making CPF Contributions</a>
+</p>
+</li>
+<li>
+<p><a href="https://www2.cpf.gov.sg/ert/dsa/spcpSelection.action" rel="noopener noreferrer nofollow" target="_blank">CPF EZPay</a>
 </p>
 </li>
 <li>
