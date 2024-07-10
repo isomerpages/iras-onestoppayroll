@@ -46,7 +46,7 @@ Sandbox APIs.</p>
 that you get HTTP error 403.</p>
 </li>
 </ul>
-<h3>Step 4: Compete the CPFB, IRAS and MOM API Testing in Sandbox</h3>
+<h3>Step 4: Complete the CPFB, IRAS and MOM API Testing in Sandbox</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Check that the Sandbox CPF/IRAS/MOM API is listed in <a href="https://docs.developer.tech.gov.sg/docs/complete-apex-user-guide/sections/consuming/v2/browsing-apis?id=_1-discover-apis-through-the-api-catalog" rel="noopener noreferrer nofollow" target="_blank">Approved APIs</a>,
