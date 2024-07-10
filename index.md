@@ -14,9 +14,9 @@ sections:
         title: I am...
         options:
           - title: a Software Developer
-            url: /partner-us/software-developer/
+            url: /partner-with-us/software-developer/
           - title: a Business or Employer
-            url: /partner-us/business-employer
+            url: /partner-with-us/business-employer
   - infopic:
       title: About One-Stop Payroll
       subtitle: About Us
