@@ -4,10 +4,12 @@ permalink: /partner-with-us/software-developer/
 variant: tiptap
 description: ""
 ---
+<h2>OSP value proposition for Software Developer&nbsp;</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSP_SWD_No_Micrositelink.png">
 </div>
 <hr>
+<h2>Onboarding Steps for Software Developers</h2>
 <h3>Step 1: Create and Setup your APEX account (one-time only)</h3>
 <ul data-tight="true" class="tight">
 <li>
