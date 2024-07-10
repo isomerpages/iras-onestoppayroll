@@ -4,6 +4,10 @@ permalink: /partner-with-us/software-developer/
 variant: tiptap
 description: ""
 ---
+<h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSP_SWD_No_Micrositelink.png">
+</div>
 <h3>Step 1: Create and Setup your APEX account (one-time only)</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -74,8 +78,4 @@ that you get HTTP error 403.</p>
 authorize your Organization to the Production APIs.</p>
 </li>
 </ul>
-<p>
-<br>Linked Resources:
-<br><a href="/files/Infographic_Factsheet_For_SWDs_draft.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographic Factsheet for Software Developers</a> 
-<br><a href="/files/IRAS_Submission_of_Employment_Income__APEX__API_Services_Interface_Specification_V1.pdf" rel="noopener noreferrer nofollow" target="_blank">IRAS Submission of Employment Income APEX API Services Interface Specification</a>
-</p>
+<p></p>
