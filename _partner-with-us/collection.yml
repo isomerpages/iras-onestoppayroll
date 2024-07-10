@@ -2,5 +2,6 @@ collections:
   partner-with-us:
     output: true
     order:
+      - Overview.md
       - As A Software Developer.md
       - As A Business Or Employer.md
