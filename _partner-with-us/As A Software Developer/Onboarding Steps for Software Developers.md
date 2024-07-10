@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: As A Software Developer
 ---
-<h2>Onboarding Steps for Software Developers</h2>
 <h3>Step 1: Create and Setup your APEX account (one-time only)</h3>
 <ul data-tight="true" class="tight">
 <li>
