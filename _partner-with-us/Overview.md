@@ -18,6 +18,6 @@ necessary CPFB, IRAS and MOM APIs.</p>
 <p>For <strong><a href="https://onestoppayroll.gov.sg/partner-with-us/business-employer/" rel="noopener noreferrer nofollow" target="_blank">businesses and employers</a></strong>,
 you can explore and adopt OSP-ready payroll software that consolidates
 payroll services into a single, convenient “one-stop” platform, enabling
-you to operational efficiency and manage payroll more effectively.</p>
+you to boost operational efficiency and manage payroll more effectively.</p>
 <p>We look forward to collaborating with you to drive innovation and efficiency
 for payroll software and the digital ecosystem.</p>
