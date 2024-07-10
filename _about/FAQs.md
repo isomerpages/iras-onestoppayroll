@@ -1,7 +1,7 @@
 ---
 title: FAQs
 permalink: /faq/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h3><strong>One-Stop Payroll FAQs</strong></h3>
@@ -231,7 +231,7 @@ Grant (PSG), please visit <a href="https://www.enterprisesg.gov.sg/financial-sup
 <li>
 <p><strong>Who can businesses contact for further inquiries about the One-Stop Payroll initiative? </strong>
 <br>For further inquiries about the One-Stop Payroll initiative, businesses
-can get in touch with the One-Stop Payroll Agencies <a href="https://staging.d2nyvm7cspqo8.amplifyapp.com/support/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+can get in touch with the One-Stop Payroll Agencies <a href="https://onestoppayroll.gov.sg/support/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </li>
 </ol>
 <p></p>
