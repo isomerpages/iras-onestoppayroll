@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h2>Partner With Us</h2>
-<p>Welcome to the One-Stop Payroll (OSP) initiative powered by APEX platform.
-APEX is an API management solution developed by GovTech that enables government
+<p>Welcome to the One-Stop Payroll (OSP) initiative powered by APEX platform.</p>
+<p>APEX is an API management solution developed by GovTech that enables government
 agencies to securely share their APIs with developers from other government
 agencies and businesses. With APEX, developers can discover and access
 well-documented APIs provided by government agencies to exchange data and
