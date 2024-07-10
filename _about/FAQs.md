@@ -37,23 +37,28 @@ efficiency and help businesses and employers manage payroll more effectively.
 </li>
 <li>
 <p><strong>How will the One-Stop Payroll initiative benefit businesses and employers? </strong>
-<br>The One-Stop Payroll initiative offers several benefits for businesses
-and employers. Firstly, it simplifies the process by integrating core filing
-obligations within the payroll software that businesses already use, reducing
-the time and effort needed to meet regulatory obligations. This also helps
-to ensure greater accuracy and reduces the need for employers to reach
-out to agencies for assistance. Additionally, it enables easy compliance
-and has the potential to streamline filing frequencies to agencies in the
-long term.
+<br>The One-Stop Payroll initiative simplifies the process by integrating
+core filing obligations within the payroll software that businesses already
+use, reducing the time and effort needed to meet regulatory obligations.
+This also helps to ensure greater accuracy and reduces the need for employers
+to reach out to agencies for assistance. Additionally, it enables easy
+compliance and has the potential to streamline filing frequencies to agencies
+in the long term.
 <br>
 </p>
 </li>
 <li>
 <p><strong>What is the product in the One-Stop Payroll initiative? </strong>
-<br>CPFB, IRAS and MOM provide the following submission APIs on GovTech’s
-centralised APEX platform, that are available to software developers and
-partners for integration in their payroll software:</p>
-<table>
+<br>The following submission APIs found on GovTech’s centralised APEX platform
+are available to software developers and partners for integration in their
+payroll software:</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -125,7 +130,7 @@ software.</p>
 <p>Occupational Employment Dataset</p>
 </li>
 <li>
-<p>Labour market surveys</p>
+<p>Labour Market sSrveys</p>
 </li>
 </ul>
 </td>
@@ -153,17 +158,17 @@ software.</p>
 <li>
 <p><strong>Will the One-Stop Payroll initiative be accessible to all types of businesses? </strong>
 <br>Yes, the One-Stop Payroll initiative is designed to serve businesses of
-all sizes and industries. Whether you run a small, medium, or large enterprise,
-the initiative aims to offer a unified platform that meets the payroll
-needs of diverse businesses. The platform will be scalable and adaptable
-to fit different business requirements.
+all sizes and industries. Regardless of the size of your enterprise - be
+it small, medium, or large, the initiative aims to offer a unified platform
+that fulfils all your payroll needs. The platform will be scalable and
+adaptable to fit different business requirements.
 <br>
 </p>
 </li>
 <li>
 <p><strong>How will the security and confidentiality of payroll data be ensured within the One-Stop Payroll initiative? </strong>
 <br>Keeping your payroll data secure and confidential is a top priority within
-the One-Stop Payroll initiative. The agencies will follow strong data protection
+the One-Stop Payroll initiative. The agencies follow strong data protection
 measures and industry best practices to protect sensitive payroll information.
 This includes using encryption, access controls, and complying with data
 privacy regulations to ensure that your payroll data is safe and secure.
@@ -175,11 +180,9 @@ to software developers and partners involved in the initiative.
 </li>
 <li>
 <p><strong>What are the key milestones and timelines for the implementation of the One -Stop Payroll initiative? </strong>
-<br>The One-Stop Payroll initiative will be rolled out in stages, with key
-milestones and phases outlined for development, testing, and deployment.
-Regular updates and communications will be provided to keep stakeholders
-informed on the progress of the initiative. The anticipated launch date
-will be announced later this year in 2024.
+<br>The One-Stop Payroll initiative will be rolled out in stages, with the
+anticipated launch date being announced later in 2024. Key milestones and
+phases will be communicated to stakeholders through regular updates.
 <br>
 </p>
 </li>
@@ -196,10 +199,11 @@ stakeholders are well-informed about the initiative's progress and features.
 <li>
 <p><strong>Will there be support and resources available to assist businesses in transitioning to the One-Stop Payroll initiative? </strong>
 <br>Yes, comprehensive support and resources will be provided to assist businesses
-in transitioning to the One-Stop Payroll platform. This may include training
+in transitioning to the One-Stop Payroll platform. This will include training
 materials, user guides, and dedicated support channels to address any queries
 or challenges encountered during the transition. The aim is to facilitate
-a smooth and seamless transition for businesses and employers.
+a smooth and seamless transition for software developers, businesses and
+employers.
 <br>
 </p>
 </li>
@@ -208,7 +212,7 @@ a smooth and seamless transition for businesses and employers.
 <br>Businesses can explore the Productivity Solutions Grant (PSG), which supports
 local companies in enhancing productivity and automating processes through
 IT solutions and equipment. For more information on the Productivity Solutions
-Grant (PSG), please visit Enterprise Singapore’s website.
+Grant (PSG), please visit <a href="https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant" rel="noopener noreferrer nofollow" target="_blank">Enterprise Singapore’s website</a>.
 <br>
 </p>
 </li>
@@ -216,9 +220,9 @@ Grant (PSG), please visit Enterprise Singapore’s website.
 <p><strong>How can businesses provide feedback or suggestions for the improvement of the One-Stop Payroll initiative?</strong> 
 <br>Businesses are encouraged to provide feedback and suggestions for the
 improvement of the One-Stop Payroll initiative through designated feedback
-channels, such as feedback forms, surveys, and stakeholder engagement sessions.
-The input received will be valuable in refining the platform and ensuring
-that it meets the evolving needs of businesses and employers.
+channels, such as feedback forms, surveys, and engagement sessions. The
+input received will be valuable in refining the platform and ensuring that
+it meets the evolving needs of businesses and employers.
 <br>
 </p>
 </li>
@@ -226,9 +230,10 @@ that it meets the evolving needs of businesses and employers.
 <p><strong>Who can businesses and the media contact for further inquiries about the One-Stop Payroll initiative? </strong>
 <br>For further inquiries about the One-Stop Payroll initiative, businesses
 and the media can reach out to the designated point of contact, which will
-be communicated through official channels and announcements. This point
-of contact will be available to address inquiries, provide additional information,
-and facilitate engagement with stakeholders regarding the initiative.</p>
+be communicated through official channels and announcements at a later
+date. This point of contact will be available to address inquiries, provide
+additional information, and facilitate engagement with stakeholders regarding
+the initiative.</p>
 </li>
 </ol>
 <p></p>
