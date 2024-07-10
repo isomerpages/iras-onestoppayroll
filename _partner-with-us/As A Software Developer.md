@@ -4,10 +4,10 @@ permalink: /partner-with-us/software-developer/
 variant: tiptap
 description: ""
 ---
-<h3></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSP_SWD_No_Micrositelink.png">
 </div>
+<hr>
 <h3>Step 1: Create and Setup your APEX account (one-time only)</h3>
 <ul data-tight="true" class="tight">
 <li>
