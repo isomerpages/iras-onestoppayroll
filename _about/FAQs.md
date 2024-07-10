@@ -140,18 +140,24 @@ software.</p>
 <p>Filing Frequency</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monthly submission by 14th of the following month.</p>
+<p>Monthly submission*</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yearly submission by 1 Mar of every year.</p>
+<p>Yearly submission by 1 Mar, annually</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>As and when there are changes; and Quarterly respectively.</p>
+<p>OED: As and when there are changes
+<br>LMS: Quarterly</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>*The due date for CPF contributions is on the last day of the calendar
+month. Enforcement action would be taken against employers who fail to
+pay by the 14th of the following month (or the next working day if the
+14th falls on a Saturday, Sunday, or Public Holiday). This includes imposing
+late payment interest charged at 1.5% per month, commencing from the first
+day after the due date.</p>
 </li>
 </ol>
 <ol start="5">
