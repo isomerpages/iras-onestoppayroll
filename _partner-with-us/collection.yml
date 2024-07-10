@@ -2,6 +2,7 @@ collections:
   partner-with-us:
     output: true
     order:
+      - As A Business Or Employer/As A Business Or Employer.md
       - As A Business Or Employer/.keep
       - As a Software Developer/As A Software Developer.md
       - As a Software Developer/.keep
