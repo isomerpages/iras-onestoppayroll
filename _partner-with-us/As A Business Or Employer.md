@@ -15,7 +15,7 @@ description: ""
 find out more from the software listed about your payroll needs.</p>
 </li>
 <li>
-<p> <a href="https://onestoppayroll.gov.sg/support/" rel="noopener noreferrer nofollow" target="_blank">Get in touch with us</a> if
+<p><a href="https://onestoppayroll.gov.sg/support/" rel="noopener noreferrer nofollow" target="_blank">Get in touch with us</a> if
 you have query on the CPFB, IRAS, MOM APIs and GovTech’s APEX portal. &nbsp;
 <br>
 </p>
