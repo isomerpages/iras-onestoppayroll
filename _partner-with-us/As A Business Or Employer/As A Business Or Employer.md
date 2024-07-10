@@ -5,11 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: As A Business Or Employer
 ---
-<h2>OSP Value Proposition for Businesses or Employers</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSP_Employers_No_Micrositelink.png">
-</div>
-<hr>
 <h2>Find out more</h2>
 <ul data-tight="true" class="tight">
 <li>
