@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: As A Business Or Employer
 ---
-<h2>Find out more</h2>
 <ul data-tight="true" class="tight">
 <li>
 <p>Explore the <a href="https://onestoppayroll.gov.sg/osp-vendor-listing/" rel="noopener noreferrer nofollow" target="_blank">One-Stop Payroll Vendor Listing</a> and
