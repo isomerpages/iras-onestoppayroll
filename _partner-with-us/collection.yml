@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Overview.md
+      - As A Software Developer/.keep
+      - As A Software Developer/OSP Value Proposition for Software Developers.md
+      - As A Software Developer/As A Software Developer.md
       - As A Business Or Employer/.keep
       - As A Business Or Employer/As A Business Or Employer.md
-      - As A Software Developer/OSP Value Proposition for Software Developers.md
-      - As A Software Developer/.keep
-      - As A Software Developer/As A Software Developer.md
