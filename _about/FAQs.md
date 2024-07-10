@@ -224,22 +224,14 @@ Grant (PSG), please visit <a href="https://www.enterprisesg.gov.sg/financial-sup
 </li>
 <li>
 <p><strong>How can businesses provide feedback or suggestions for the improvement of the One-Stop Payroll initiative?</strong> 
-<br>Businesses are encouraged to provide feedback and suggestions for the
-improvement of the One-Stop Payroll initiative through designated feedback
-channels, such as feedback forms, surveys, and engagement sessions. The
-input received will be valuable in refining the platform and ensuring that
-it meets the evolving needs of businesses and employers.
+<br>Businesses can send us feedback or suggestions by filling in the <a href="https://go.gov.sg/ospfeedback" rel="noopener noreferrer nofollow" target="_blank"><u>online form</u></a>.
 <br>
 </p>
 </li>
 <li>
-<p><strong>Who can businesses and the media contact for further inquiries about the One-Stop Payroll initiative? </strong>
+<p><strong>Who can businesses contact for further inquiries about the One-Stop Payroll initiative? </strong>
 <br>For further inquiries about the One-Stop Payroll initiative, businesses
-and the media can reach out to the designated point of contact, which will
-be communicated through official channels and announcements at a later
-date. This point of contact will be available to address inquiries, provide
-additional information, and facilitate engagement with stakeholders regarding
-the initiative.</p>
+can get in touch with the One-Stop Payroll Agencies here.</p>
 </li>
 </ol>
 <p></p>
