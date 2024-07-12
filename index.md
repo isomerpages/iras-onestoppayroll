@@ -52,4 +52,5 @@ sections:
       title: Resources, News and Happenings
       subtitle: Resource Room
       id: resources
+      button: MORE RESOURCES
 ---
