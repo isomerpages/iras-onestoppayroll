@@ -4,8 +4,15 @@ permalink: /osp-vendor-listing/
 variant: tiptap
 description: ""
 ---
-<h1>One-Stop Payroll Vendor Listing</h1>
-<table>
+<h1>One-Stop Payroll (OSP) Vendor Listing</h1>
+<h4><strong>OSP-Ready </strong>AIS Payroll Software Vendors Supporting YA2024 Submissions</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -108,7 +115,6 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<blockquote>
 <p>Please note that the CPFB, GovTech, IRAS and MOM (“Agencies”) have only
 performed integration testing of the software listed on the One-Stop Payroll
 Vendor Listing. You are encouraged to ask the software developers for information
@@ -117,6 +123,7 @@ Agencies makes no warranty or representation on any aspect of any software
 listed on the One-Stop Payroll Vendor Listing. The Agencies will not be
 liable for any losses or damages, loss of income, profit or savings, or
 indirect, incidental, special, consequential or punitive damages arising
-from or in connection with the use of any of the software.</p>
-</blockquote>
+from or in connection with the use of any of the software.
+<br>
+</p>
 <p></p>
