@@ -6,8 +6,9 @@ description: ""
 ---
 <h1>One-Stop Payroll (OSP) Vendor Listing</h1>
 <h4>OSP-Ready<strong> </strong>AIS Payroll Software Vendors Supporting YA2024 Submissions</h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -21,6 +22,10 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Payroll Vendor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Website</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,6 +45,10 @@ description: ""
 <p>INFO-TECH SYSTEMS INTEGRATORS PTE. LTD.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.info-tech.com.sg/payroll-software" rel="noopener noreferrer nofollow" target="_blank">https://www.info-tech.com.sg/payroll-software</a> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>62973398</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,6 +62,10 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>JUSTLOGIN PTE LTD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://justlogin.com/payroll-software/" rel="noopener noreferrer nofollow" target="_blank">https://justlogin.com/payroll-software/</a> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>69099217
@@ -72,6 +85,10 @@ description: ""
 <p>ROCKBELL INTERNATIONAL SOFTWARE PTE. LTD.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.rockbell.sg/payroll-software/" rel="noopener noreferrer nofollow" target="_blank">https://www.rockbell.sg/payroll-software/</a> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>64697720
 <br>88891140</p>
 </td>
@@ -89,6 +106,10 @@ description: ""
 <p>TALENOX PTE. LTD.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.talenox.com/sg/payroll/" rel="noopener noreferrer nofollow" target="_blank">https://www.talenox.com/sg/payroll/</a> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>N.A.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,6 +123,10 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>TIMES SOFTWARE PTE LTD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.timesoftsg.com.sg/payroll-software/" rel="noopener noreferrer nofollow" target="_blank">https://www.timesoftsg.com.sg/payroll-software/</a> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>62951998</p>
