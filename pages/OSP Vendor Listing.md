@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h1>One-Stop Payroll (OSP) Vendor Listing</h1>
-<h4><strong>OSP-Ready </strong>AIS Payroll Software Vendors Supporting YA2024 Submissions</h4>
+<h4>OSP-Ready<strong> </strong>AIS Payroll Software Vendors Supporting YA2024 Submissions</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
