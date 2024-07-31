@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - As A Software Developer/Testimonials.md
       - As A Software Developer/.keep
       - As A Software Developer/OSP Value Proposition for Software Developers.md
       - As A Software Developer/Onboarding Steps for Software Developers.md
