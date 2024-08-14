@@ -52,27 +52,23 @@ in the long term.
 <br>The following submission APIs found on GovTech’s centralised APEX platform
 are available to software developers and partners for integration in their
 payroll software:</p>
-<table style="minWidth: 100px">
+</li>
+</ol>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Product</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>CPFB’s CPF Contributions API</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>IRAS’ Employment Income API</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>MOM’s Workforce Statistics API</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Product (1)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CPFB’s CPF Contributions API</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -83,6 +79,47 @@ payroll software:</p>
 data) for their employees to CPFB. This API enables employers to make such
 submissions direct from payroll software.</p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scope</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CPF Contribution Details</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Filing Frequency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monthly submission*
+<br><em><sub>*The due date for CPF contributions is on the last day of the calendar month. Enforcement action would be taken against employers who fail to pay by the 14th of the following month (or the next working day if the 14th falls on a Saturday, Sunday, or Public Holiday). This includes imposing late payment interest charged at 1.5% per month, commencing from the first day after the due date.</sub></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Product (2)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>IRAS’ Employment Income API</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Overview</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Employers with more than 5 employees are required to submit yearly employment
 income information electronically to IRAS under the Auto Inclusion Scheme
@@ -90,24 +127,10 @@ income information electronically to IRAS under the Auto Inclusion Scheme
 income tax returns. This API enables employers to file required forms under
 the AIS and send associated data (salary, bonus, CPF, etc.) to IRAS seamlessly.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Employers are required under the Statistics Act to report changes in their
-workforce composition to MOM under the Occupational Employment Dataset
-(OED), as well as complete quarterly Labour Market Surveys (LMS). This
-API enables employers to report OED and LMS data directly from their payroll
-software.</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Scope</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>CPF Contribution Details</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -124,7 +147,49 @@ software.</p>
 <p>Appendix 8B</p>
 </li>
 </ul>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Filing Frequency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yearly submission by 1 Mar, annually</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Product (3)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MOM’s Workforce Statistics API</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Overview</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Employers are required under the Statistics Act to report changes in their
+workforce composition to MOM under the Occupational Employment Dataset
+(OED), as well as complete quarterly Labour Market Surveys (LMS). This
+API enables employers to report OED and LMS data directly from their payroll
+software.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scope</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -142,26 +207,12 @@ software.</p>
 <p>Filing Frequency</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monthly submission*</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yearly submission by 1 Mar, annually</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>OED: As and when there are changes
 <br>LMS: Quarterly</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>*The due date for CPF contributions is on the last day of the calendar
-month. Enforcement action would be taken against employers who fail to
-pay by the 14th of the following month (or the next working day if the
-14th falls on a Saturday, Sunday, or Public Holiday). This includes imposing
-late payment interest charged at 1.5% per month, commencing from the first
-day after the due date.</p>
-</li>
-</ol>
 <ol start="5">
 <li>
 <p><strong>Will the One-Stop Payroll initiative be accessible to all types of businesses? </strong>
