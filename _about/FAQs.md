@@ -28,10 +28,11 @@ and eases adherence to employer-related regulatory obligations.
 <p><strong>What are the key objectives of the One-Stop Payroll initiative? </strong>
 <br>The main goals of the One-Stop Payroll initiative are to make employer-related
 regulatory requirements easier and more consistent for businesses using
-payroll software and reduce administrative overheads. By consolidating
-payroll services into a single, convenient “one-stop” platform, the initiative
-aims to boost operational efficiency and help businesses and employers
-manage payroll more effectively.
+payroll software, thereby reducing administrative overheads. By integrating
+payroll services these employer-related regulatory requirements seamlessly
+into a single, convenient “one-stop” platform within the payroll software’s
+natural systems, the initiative aims to boost operational efficiency and
+help businesses and employers manage payroll more effectively.
 <br>
 </p>
 </li>
