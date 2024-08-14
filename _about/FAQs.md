@@ -20,18 +20,18 @@ software. This includes the annual submission of salary data (under Auto-Inclusi
 Scheme) to IRAS, monthly submission of employees’ CPF contributions to
 CPFB, and responses to the Occupational Employment Dataset and labour market
 surveys administered by MOM. As a result, this reduces administrative overheads
-and eases adherence to payroll-related regulatory obligations.
+and eases adherence to employer-related regulatory obligations.
 <br>
 </p>
 </li>
 <li>
 <p><strong>What are the key objectives of the One-Stop Payroll initiative? </strong>
-<br>The main goals of the One-Stop Payroll initiative are to make payroll
-processes easier and more consistent for businesses using payroll software,
-reduce administrative workload, and encourage adherence to payroll-related
-regulatory obligations. By consolidating payroll services into a single,
-convenient “one-stop” platform, the initiative aims to boost operational
-efficiency and help businesses and employers manage payroll more effectively.
+<br>The main goals of the One-Stop Payroll initiative are to make employer-related
+regulatory requirements easier and more consistent for businesses using
+payroll software and reduce administrative overheads. By consolidating
+payroll services into a single, convenient “one-stop” platform, the initiative
+aims to boost operational efficiency and help businesses and employers
+manage payroll more effectively.
 <br>
 </p>
 </li>
@@ -116,6 +116,8 @@ software.</p>
 </li>
 <li>
 <p>Form IR8S</p>
+</li>
+<li>
 <p>Appendix 8A</p>
 </li>
 <li>
