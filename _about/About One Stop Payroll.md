@@ -18,7 +18,7 @@ annual submission of salary data (under Auto-Inclusion Scheme) to IRAS,
 monthly submission of employees’ CPF contributions to CPFB, and responses
 to the Occupational Employment Dataset and labour market surveys administered
 by MOM. As a result, this reduces administrative overheads and eases adherence
-to payroll-related regulatory obligations.</p>
+to employer-related regulatory obligations.</p>
 <p>The One-Stop Payroll desired future state:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="OSP desired end state" src="/images/OSP_desired_end_state.png">
