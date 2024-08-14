@@ -33,7 +33,7 @@ sections:
       subtitle: Collaboration
       id: infopic
       description: Businesses and employers can use payroll software to submit
-        employers’ employment and income-related information to multiple
+        employers’ employment and payroll-related information to multiple
         agencies.
       button: View Listing
       url: /osp-vendor-listing
