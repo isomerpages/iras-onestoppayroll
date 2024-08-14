@@ -6,7 +6,7 @@ description: ""
 ---
 <h2>Partner With Us</h2>
 <p>Welcome to the One-Stop Payroll (OSP) initiative powered by APEX platform.</p>
-<p><a href="https://www.developer.tech.gov.sg/products/categories/data-and-apis/apex-cloud/overview.html" rel="noopener noreferrer nofollow" target="_blank">APEX</a> is
+<p><strong><a href="https://www.developer.tech.gov.sg/products/categories/data-and-apis/apex-cloud/overview.html" rel="noopener noreferrer nofollow" target="_blank">APEX</a> </strong>is
 an API management solution developed by GovTech that enables government
 agencies to securely share their APIs with developers from other government
 agencies and businesses. With APEX, developers can discover and access
