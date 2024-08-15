@@ -17,4 +17,5 @@ you have query on the CPFB, IRAS, MOM APIs and GovTech’s APEX portal. &nbsp;
 </p>
 </li>
 </ul>
-<p></p>
+<p><strong>Related Resources:</strong>  <a href="/resource-room/news/" rel="noopener noreferrer nofollow" target="_blank">News on One-Stop Payroll</a>
+</p>
