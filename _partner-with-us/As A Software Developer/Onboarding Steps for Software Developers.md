@@ -76,6 +76,6 @@ authorize your Organization to the Production APIs.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Related Resources:</strong>  <a href="https://staging.d2nyvm7cspqo8.amplifyapp.com/resource-room/onboarding-guides/" rel="noopener noreferrer nofollow" target="_blank">Onboarding Guides</a>
+<p><strong>Related Resources:</strong>  <a href="/resource-room/onboarding-guides/" rel="noopener noreferrer nofollow" target="_blank">Onboarding Guides</a>
 </p>
 <p></p>
