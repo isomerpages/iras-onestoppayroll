@@ -5,25 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>One-Stop Payroll FAQs</strong></h3>
-<ol>
-<li>
-<p><strong>What is the One-Stop Payroll initiative? </strong>
-<br>The One-Stop Payroll initiative is a joint effort by the Inland Revenue
-Authority of Singapore (IRAS), the Central Provident Fund Board (CPFB),
-the Ministry of Manpower (MOM) and the Government Technology Agency (GovTech).
-The initiative aims to streamline and simplify the employer-related regulatory
-requirements for businesses. Previously, businesses manually submitted
-similar information via different means to respective agencies. With One-Stop
-Payroll, businesses can submit employers’ employment and income-related
-information to multiple agencies through a single platform, via their payroll
-software. This includes the annual submission of salary data (under Auto-Inclusion
-Scheme) to IRAS, monthly submission of employees’ CPF contributions to
-CPFB, and responses to the Occupational Employment Dataset and labour market
-surveys administered by MOM. As a result, this reduces administrative overheads
-and eases adherence to employer-related regulatory obligations.
-<br>
-</p>
-</li>
+<p></p>
+<ol data-tight="true" class="tight">
 <li>
 <p><strong>What are the key objectives of the One-Stop Payroll initiative? </strong>
 <br>The main goals of the One-Stop Payroll initiative are to make employer-related
@@ -52,9 +35,9 @@ in the long term.
 <p><strong>What is the product in the One-Stop Payroll initiative? </strong>
 <br>The following submission APIs found on GovTech’s centralised APEX platform
 are available to software developers and partners for integration in their
-payroll software:</p>
-</li>
-</ol>
+payroll software:
+<br>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -63,8 +46,7 @@ payroll software:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Product (1)</strong>
-</p>
+<p>Product (1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>CPFB’s CPF Contributions API</strong>
@@ -95,12 +77,13 @@ submissions direct from payroll software.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monthly submission*
-<br><em><sub>*The due date for CPF contributions is on the last day of the calendar month. Enforcement action would be taken against employers who fail to pay by the 14th of the following month (or the next working day if the 14th falls on a Saturday, Sunday, or Public Holiday). This includes imposing late payment interest charged at 1.5% per month, commencing from the first day after the due date.</sub></em>
+<br><em><br>*The due date for CPF contributions is on the last day of the calendar month. Enforcement action would be taken against employers who fail to pay by the 14th of the following month (or the next working day if the 14th falls on a Saturday, Sunday, or Public Holiday). This includes imposing late payment interest charged at 1.5% per month, commencing from the first day after the due date.</em>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -109,8 +92,7 @@ submissions direct from payroll software.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Product (2)</strong>
-</p>
+<p>Product (2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>IRAS’ Employment Income API</strong>
@@ -134,20 +116,10 @@ the AIS and send associated data (salary, bonus, CPF, etc.) to IRAS seamlessly.<
 <p>Scope</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Form IR8A</p>
-</li>
-<li>
-<p>Form IR8S</p>
-</li>
-<li>
-<p>Appendix 8A</p>
-</li>
-<li>
-<p>Appendix 8B</p>
-</li>
-</ul>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Form IR8A</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Form IR8S</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Appendix 8A</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Appendix 8B</p>
 </td>
 </tr>
 <tr>
@@ -160,6 +132,7 @@ the AIS and send associated data (salary, bonus, CPF, etc.) to IRAS seamlessly.<
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -168,8 +141,7 @@ the AIS and send associated data (salary, bonus, CPF, etc.) to IRAS seamlessly.<
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Product (3)</strong>
-</p>
+<p>Product (3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MOM’s Workforce Statistics API</strong>
@@ -193,14 +165,8 @@ software.</p>
 <p>Scope</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Occupational Employment Dataset</p>
-</li>
-<li>
-<p>Labour Market Surveys</p>
-</li>
-</ul>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Occupational Employment Dataset</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Labour Market Surveys</p>
 </td>
 </tr>
 <tr>
@@ -214,7 +180,8 @@ software.</p>
 </tr>
 </tbody>
 </table>
-<ol start="5">
+<p></p>
+</li>
 <li>
 <p><strong>Will the One-Stop Payroll initiative be accessible to all types of businesses? </strong>
 <br>Yes, the One-Stop Payroll initiative is designed to serve businesses of
