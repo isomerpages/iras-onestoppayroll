@@ -15,7 +15,8 @@ payroll software, thereby reducing administrative overheads. By integrating
 payroll services these employer-related regulatory requirements seamlessly
 into a single, convenient “one-stop” platform within the payroll software’s
 natural systems, the initiative aims to boost operational efficiency and
-help businesses and employers manage payroll more effectively.
+help businesses and employers manage payroll more effectively.</p>
+<p>
 <br>
 </p>
 </li>
@@ -27,7 +28,8 @@ use, reducing the time and effort needed to meet regulatory obligations.
 This also helps to ensure greater accuracy and reduces the need for employers
 to reach out to agencies for assistance. Additionally, it enables easy
 compliance and has the potential to streamline filing frequencies to agencies
-in the long term.
+in the long term.</p>
+<p>
 <br>
 </p>
 </li>
@@ -188,7 +190,8 @@ software.</p>
 all sizes and industries. Regardless of the size of your enterprise - be
 it small, medium, or large, the initiative aims to offer a unified platform
 that fulfils all your payroll needs. The platform will be scalable and
-adaptable to fit different business requirements.
+adaptable to fit different business requirements.</p>
+<p>
 <br>
 </p>
 </li>
@@ -201,7 +204,8 @@ This includes using encryption, access controls, and complying with data
 privacy regulations to ensure that your payroll data is safe and secure.
 Furthermore, agencies will consider the necessary data security measures
 and volume constraints during transmission and provide technical support
-to software developers and partners involved in the initiative.
+to software developers and partners involved in the initiative.</p>
+<p>
 <br>
 </p>
 </li>
@@ -209,7 +213,8 @@ to software developers and partners involved in the initiative.
 <p><strong>What are the key milestones and timelines for the implementation of the One -Stop Payroll initiative? </strong>
 <br>The One-Stop Payroll initiative will be rolled out in stages, with the
 anticipated launch date being announced later in 2024. Key milestones and
-phases will be communicated to stakeholders through regular updates.
+phases will be communicated to stakeholders through regular updates.</p>
+<p>
 <br>
 </p>
 </li>
@@ -219,7 +224,8 @@ phases will be communicated to stakeholders through regular updates.
 updates about the One-Stop Payroll initiative through official communication
 channels, such as government announcements, dedicated websites, and information
 sessions. Regular updates and resources will be made available to ensure
-stakeholders are well-informed about the initiative's progress and features.
+stakeholders are well-informed about the initiative's progress and features.</p>
+<p>
 <br>
 </p>
 </li>
@@ -230,7 +236,8 @@ in transitioning to the One-Stop Payroll platform. This will include training
 materials, user guides, and dedicated support channels to address any queries
 or challenges encountered during the transition. The aim is to facilitate
 a smooth and seamless transition for software developers, businesses and
-employers.
+employers.</p>
+<p>
 <br>
 </p>
 </li>
@@ -239,13 +246,15 @@ employers.
 <br>Businesses can explore the Productivity Solutions Grant (PSG), which supports
 local companies in enhancing productivity and automating processes through
 IT solutions and equipment. For more information on the Productivity Solutions
-Grant (PSG), please visit <a href="https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant" rel="noopener noreferrer nofollow" target="_blank">Enterprise Singapore’s website</a>.
+Grant (PSG), please visit <a href="https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant" rel="noopener noreferrer nofollow" target="_blank">Enterprise Singapore’s website</a>.</p>
+<p>
 <br>
 </p>
 </li>
 <li>
 <p><strong>How can businesses provide feedback or suggestions for the improvement of the One-Stop Payroll initiative?</strong> 
-<br>Businesses can send us feedback or suggestions by filling in the <a href="https://go.gov.sg/ospfeedback" rel="noopener noreferrer nofollow" target="_blank"><u>online form</u></a>.
+<br>Businesses can send us feedback or suggestions by filling in the <a href="https://go.gov.sg/ospfeedback" rel="noopener noreferrer nofollow" target="_blank"><u>online form</u></a>.</p>
+<p>
 <br>
 </p>
 </li>
@@ -253,6 +262,7 @@ Grant (PSG), please visit <a href="https://www.enterprisesg.gov.sg/financial-sup
 <p><strong>Who can businesses contact for further inquiries about the One-Stop Payroll initiative? </strong>
 <br>For further inquiries about the One-Stop Payroll initiative, businesses
 can get in touch with the One-Stop Payroll Agencies <a href="/support/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
 </li>
 </ol>
 <p></p>
