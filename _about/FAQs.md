@@ -285,7 +285,7 @@ Grant (PSG), please visit <a href="https://www.enterprisesg.gov.sg/financial-sup
 <li>
 <p><strong>Who can businesses contact for further inquiries about the One-Stop Payroll initiative? </strong>
 <br>For further inquiries about the One-Stop Payroll initiative, businesses
-can get in touch with the One-Stop Payroll Agencies <a href="https://onestoppayroll.gov.sg/support/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+can get in touch with the One-Stop Payroll Agencies <a href="/support/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </li>
 </ol>
 <p></p>
