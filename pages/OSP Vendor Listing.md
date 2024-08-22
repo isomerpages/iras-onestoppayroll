@@ -5,7 +5,12 @@ variant: tiptap
 description: ""
 ---
 <h1>One-Stop Payroll (OSP) Vendor Listing</h1>
-<h4>OSP-Ready<strong> </strong>AIS Payroll Software Vendors Supporting YA2024 Submissions</h4>
+<h4>OSP-Ready<strong> </strong>Payroll Software Vendors </h4>
+<p>The following payroll software vendors are One-Stop Payroll (OSP)-ready,
+and are able to support submissions of salary information (under the Auto-Inclusion
+Scheme) to IRAS for Year of Assessment 2024, employees’ CPF contribution
+information to CPFB, and survey responses to the Occupational Employment
+Dataset and labour market surveys administered by MOM, via API.</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
