@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h1>One-Stop Payroll (OSP) Vendor Listing</h1>
-<h4>OSP-Ready<strong> </strong>Payroll Software Vendors </h4>
+<h4>OSP-Ready<strong> </strong>Payroll Software Vendors</h4>
 <p>The following payroll software vendors are One-Stop Payroll (OSP)-ready,
 and are able to support submissions of salary information (under the Auto-Inclusion
 Scheme) to IRAS for Year of Assessment 2024, employees’ CPF contribution
