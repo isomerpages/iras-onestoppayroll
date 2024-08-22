@@ -1,0 +1,14 @@
+collections:
+  partner-with-us:
+    output: true
+    order:
+      - Overview.md
+      - As A Software Developer/.keep
+      - As A Software Developer/OSP Value Proposition for Software Developers.md
+      - As A Software Developer/Testimonials from Software Developers.md
+      - As A Software Developer/Onboarding Steps for Software Developers.md
+      - As A Business Or Employer/.keep
+      - As A Business Or Employer/OSP Value Proposition for Businesses or
+        Employers.md
+      - As A Business Or Employer/Testimonials from Businesses.md
+      - As A Business Or Employer/Find Out More.md

@@ -1,0 +1,7 @@
+collections:
+  about:
+    output: true
+    order:
+      - About One Stop Payroll.md
+      - FAQs.md
+      - Useful Links.md
