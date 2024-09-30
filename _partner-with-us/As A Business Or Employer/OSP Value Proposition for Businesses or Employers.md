@@ -26,7 +26,7 @@ and entry</p>
 <p>Reap productivity savings - up to 50% time savings!</p>
 </li>
 <li>
-<p>Enjoy seamless, efficient and integrated one-Government experience</p>
+<p>Enjoy seamless, efficient and integrated one-Government experience.</p>
 </li>
 </ul>
 <h3>Testimonials from Businesses or Employers</h3>
