@@ -7,7 +7,7 @@ third_nav_title: As A Business Or Employer
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p>Explore the <a href="https://staging.d2nyvm7cspqo8.amplifyapp.com/osp-vendor-listing/" rel="noopener nofollow" target="_blank"><u>One-Stop Payroll Vendor Listing</u></a> and
+<p>Adopt an OSP-ready software from the <a href="https://staging.d2nyvm7cspqo8.amplifyapp.com/osp-vendor-listing/" rel="noopener nofollow" target="_blank"><u>One-Stop Payroll Vendor Listing</u></a> and
 find out more from the software listed about your payroll needs.</p>
 </li>
 <li>
