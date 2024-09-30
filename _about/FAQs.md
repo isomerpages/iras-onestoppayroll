@@ -60,9 +60,9 @@ payroll software:
 <p>Overview</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Employers are required to submit monthly CPF contributions (and other
-data) for their employees to CPFB. This API enables employers to make such
-submissions direct from payroll software.</p>
+<p>Businesses/Employers are required to submit monthly CPF contributions
+(and other data) to CPFB. This API enables them to make such submissions
+direct from payroll software.</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +79,7 @@ submissions direct from payroll software.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monthly submission*
-<br><em><br><sub>*The due date for CPF contributions is on the last day of the calendar month. Enforcement action would be taken against employers who fail to pay by the 14th of the following month (or the next working day if the 14th falls on a Saturday, Sunday, or Public Holiday). This includes imposing late payment interest charged at 1.5% per month, commencing from the first day after the due date.</sub></em>
+<br><em><br><sub>*The due date for CPF contributions is on the last day of the calendar month. Enforcement action would be taken against businesses/employers who fail to pay by the 14th of the following month (or the next working day if the 14th falls on a Saturday, Sunday, or Public Holiday). This includes imposing late payment interest charged at 1.5% per month, commencing from the first day after the due date.</sub></em>
 </p>
 </td>
 </tr>
