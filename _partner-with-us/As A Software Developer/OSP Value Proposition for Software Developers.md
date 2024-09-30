@@ -41,6 +41,4 @@ API integration across three government agencies.</p>
 </div>
 <p><strong>Related Resources: </strong><a href="/resource-room/infographics/" rel="noopener nofollow" target="_blank">Infographics for Software Developers</a>
 </p>
-<p><strong>Onboard Now:</strong>  <a href="/partner-with-us/software-developer/onboarding-steps/" rel="noopener nofollow" target="_blank">Onboarding Steps for Software Developers</a>
-</p>
 <p></p>
