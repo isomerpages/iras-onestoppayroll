@@ -18,11 +18,11 @@ third_nav_title: As A Software Developer
 <ul data-tight="true" class="tight">
 <li>
 <p>Differentiating yourself as a market leader by offering comprehensive,
-customer-centric solution that enhances clients' regulatory compliance;</p>
+customer-centric solution that enhances clients' regulatory compliance.</p>
 </li>
 <li>
 <p>Delivering an enhanced user experience for your clients through seamless,
-accurate submissions with reduced technical errors;</p>
+accurate submissions with reduced technical errors.</p>
 </li>
 <li>
 <p>Efficient resource allocation via consolidated onboarding and unified
