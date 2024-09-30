@@ -27,9 +27,24 @@ and entry</p>
 </li>
 <li>
 <p>Enjoy seamless, efficient and integrated one-Government experience</p>
-<p></p>
 </li>
 </ul>
+<h3>Testimonials from Business End Users</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Testimonials/Testimonial_User_Rockbell_Season_Bus.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Testimonials/Testimonial_User_2_Rockbell_Ecopluz.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Testimonials/Testimonial_User_3_Rockbell_ICM_Pharma.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Testimonials/Testimonial_User_4_JustLogin.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Testimonials/Testimonial_User_5_InfoTech.png">
+</div>
 <p><strong>Related Resources:</strong>
 </p>
 <ul data-tight="true" class="tight">
