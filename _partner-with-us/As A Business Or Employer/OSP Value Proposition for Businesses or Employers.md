@@ -29,7 +29,7 @@ and entry</p>
 <p>Enjoy seamless, efficient and integrated one-Government experience</p>
 </li>
 </ul>
-<h3>Testimonials from Business End Users</h3>
+<h3>Testimonials from Businesses or Employers</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Testimonials/Testimonial_User_Rockbell_Season_Bus.png">
 </div>
@@ -45,16 +45,8 @@ and entry</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Testimonials/Testimonial_User_5_InfoTech.png">
 </div>
-<p><strong>Related Resources:</strong>
+<p><strong>Related Resources: </strong><a href="/resource-room/infographics/" rel="noopener nofollow" target="_blank">Infographics for Businesses or Employers</a>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/resource-room/infographics/" rel="noopener nofollow" target="_blank">Infographics for Businesses or Employers</a>
+<p><strong>Next: </strong><a href="/partner-with-us/business-employer/find-out-more/" rel="noopener nofollow" target="_blank">Find Out More</a>
 </p>
-</li>
-<li>
-<p><a href="/partner-with-us/business-employer/find-out-more/" rel="noopener nofollow" target="_blank">Find Out More</a>
-</p>
-</li>
-</ul>
 <p></p>
