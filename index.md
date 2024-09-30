@@ -18,16 +18,15 @@ sections:
           - title: a Business or Employer
             url: /partner-with-us/business-employer
   - infopic:
-      title: About One-Stop Payroll
-      subtitle: About Us
+      title: Partner With Us
+      subtitle: Collaboration
       id: infopic
-      description: The One-Stop Payroll initiative is a joint effort by IRAS, CPFB,
-        MOM and GovTech that aims to streamline and simplify the payroll process
-        for businesses.
+      description: Explore partnership opportunities with us to streamline and
+        simplify the payroll process for your business and software.
       button: Learn More
-      url: /about/about-osp/
-      alt: About One-Stop Payroll
-      image: /images/about_us_general.png
+      alt: Partner With Us
+      url: /partner-with-us
+      image: /images/partner_with_us.png
   - infopic:
       title: One-Stop Payroll Vendor Listing
       subtitle: Collaboration
@@ -38,16 +37,6 @@ sections:
       url: /osp-vendor-listing
       image: /images/osp_vendor_listing.png
       alt: OSP Vendor Listing
-  - infopic:
-      title: Partner With Us
-      subtitle: Collaboration
-      id: infopic
-      description: Explore partnership opportunities with us to streamline and
-        simplify the payroll process for your business and software.
-      button: Learn More
-      alt: Partner With Us
-      url: /partner-with-us
-      image: /images/partner_with_us.png
   - resources:
       title: Resources, News and Happenings
       subtitle: Resource Room
