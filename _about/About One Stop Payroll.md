@@ -23,7 +23,7 @@ or online forms, which require manual preparation.</p>
 <p>With One-Stop Payroll, businesses can make these submissions to IRAS,
 CPFB, and MOM through a single platform, seamlessly via their payroll software.
 As a result, this significantly reduces administrative overheads and eases
-compliance costs of employer-related regulatory obligations.</p>
+compliance costs of payroll-related regulatory obligations.</p>
 <p>The One-Stop Payroll desired future state:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="OSP desired end state" src="/images/OSP_desired_end_state.png">
