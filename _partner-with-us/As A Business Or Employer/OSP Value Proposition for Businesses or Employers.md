@@ -27,6 +27,19 @@ and entry</p>
 </li>
 <li>
 <p>Enjoy seamless, efficient and integrated one-Government experience</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Related Resources:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/resource-room/infographics/" rel="noopener nofollow" target="_blank">Infographics for Businesses or Employers</a>
+</p>
+</li>
+<li>
+<p><a href="/partner-with-us/business-employer/find-out-more/" rel="noopener nofollow" target="_blank">Find Out More</a>
+</p>
 </li>
 </ul>
 <p></p>
