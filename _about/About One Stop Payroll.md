@@ -8,15 +8,15 @@ description: ""
 <p>The One-Stop Payroll initiative is a joint effort by the Inland Revenue
 Authority of Singapore (IRAS), the Central Provident Fund Board (CPFB),
 the Ministry of Manpower (MOM) and the Government Technology Agency (GovTech).
-The initiative aims to streamline and simplify the employer-related regulatory
+The initiative aims to streamline and simplify the payroll-related regulatory
 requirements for businesses and employers.</p>
 <p>Currently, businesses are required to submit similar income and employment-related
 information to respective agencies. This includes the annual submission
 of salary data (under Auto-Inclusion Scheme) to IRAS, monthly submission
-of employees’ CPF contributions to CPFB, and responses to the Occupational
-Employment Dataset and labour market surveys administered by MOM. These
-submissions are done separately via different means, ranging from digital
-services or online forms, which require manual preparation.</p>
+of CPF contributions to CPFB, and responses to the Occupational Employment
+Dataset and labour market surveys administered by MOM. These submissions
+are done separately via different means, ranging from digital services
+or online forms, which require manual preparation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Employer filings to government agencies" src="/images/about_us_employer_filings_to_gov_agencies.png">
 </div>
