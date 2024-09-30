@@ -61,7 +61,7 @@ you have query on the CPFB, IRAS, MOM APIs and GovTech’s APEX portal. &nbsp;</
 </li>
 </ul>
 <p></p>
-<p><strong>Related Resources:</strong> 
+<p><strong>Related Resources:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
