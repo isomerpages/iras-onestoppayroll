@@ -45,22 +45,6 @@ and entry</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Testimonials/Testimonial_User_5_InfoTech.png">
 </div>
-<h3>Find Out More</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Explore the <a href="/osp-vendor-listing/" rel="noopener nofollow" target="_blank">One-Stop Payroll Vendor Listing</a> and
-find out more from the software listed about your payroll needs.</p>
-</li>
-<li>
-<p>Explore the <a href="https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant" rel="noopener noreferrer nofollow" target="_blank">Productivity Solutions Grant (PSG)</a> to
-defray the cost of adoption.</p>
-</li>
-<li>
-<p><a href="/support/" rel="noopener nofollow" target="_blank">Get in touch with us</a> if
-you have query on the CPFB, IRAS, MOM APIs and GovTech’s APEX portal. &nbsp;</p>
-</li>
-</ul>
-<p></p>
 <p><strong>Related Resources:</strong>
 </p>
 <ul data-tight="true" class="tight">
