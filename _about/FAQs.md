@@ -13,7 +13,7 @@ description: ""
 regulatory requirements easier and more consistent for businesses using
 payroll software, thereby reducing administrative overheads. By integrating
 these payroll-related regulatory requirements seamlessly into a single,
-convenient “one-stop” platform within the payroll software’s natural systems,
+convenient “one-stop” platform within the payroll software’s existing systems,
 the initiative aims to boost operational efficiency and help businesses
 and employers manage payroll more effectively.</p>
 <p>
