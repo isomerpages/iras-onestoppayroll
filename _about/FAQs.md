@@ -211,9 +211,11 @@ to software developers and partners involved in the initiative.</p>
 </li>
 <li>
 <p><strong>What are the key milestones and timelines for the implementation of the One -Stop Payroll initiative? </strong>
-<br>The One-Stop Payroll initiative will be rolled out in stages, with the
-anticipated launch date being announced later in 2024. Key milestones and
-phases will be communicated to stakeholders through regular updates.</p>
+<br>The One-Stop Payroll initiative is rolled out in stages, with a soft launch
+of the One-Stop Payroll microsite in Aug 2024, followed by an official
+launch through collaborations with partners and Trade Associations &amp;
+Chambers (TACs) later in Q4 2024. Further updates and developments will
+be communicated via the microsite.</p>
 <p>
 <br>
 </p>
