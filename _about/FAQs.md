@@ -231,12 +231,9 @@ stakeholders are well-informed about the initiative's progress and features.</p>
 </li>
 <li>
 <p><strong>Will there be support and resources available to assist businesses in transitioning to the One-Stop Payroll initiative? </strong>
-<br>Yes, comprehensive support and resources will be provided to assist businesses
-in transitioning to the One-Stop Payroll platform. This will include training
-materials, user guides, and dedicated support channels to address any queries
-or challenges encountered during the transition. The aim is to facilitate
-a smooth and seamless transition for software developers, businesses and
-employers.</p>
+<br>Yes, you may refer to the linked onboarding guides for <a href="https://www.onestoppayroll.gov.sg/partner-with-us/software-developer/" rel="noopener noreferrer nofollow" target="_blank">Software Developers</a> and
+<a href="https://www.onestoppayroll.gov.sg/partner-with-us/business-employer/" rel="noopener noreferrer nofollow" target="_blank">Businesses or Employers</a>. More support and resources are also available
+in the <a href="https://www.onestoppayroll.gov.sg/resource-room/" rel="noopener noreferrer nofollow" target="_blank">Resource Room</a>.</p>
 <p>
 <br>
 </p>
