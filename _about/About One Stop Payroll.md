@@ -25,7 +25,8 @@ CPFB, and MOM through a single platform, seamlessly via their payroll software.
 As a result, this significantly reduces administrative overheads and eases
 compliance costs of payroll-related regulatory obligations.</p>
 <p>The One-Stop Payroll desired future state:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="OSP desired end state" src="/images/OSP_desired_end_state.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSP_desired_end_state_updated.png">
 </div>
 <p></p>
