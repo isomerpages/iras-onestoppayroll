@@ -10,7 +10,7 @@ Authority of Singapore (IRAS), the Central Provident Fund Board (CPFB),
 the Ministry of Manpower (MOM) and the Government Technology Agency (GovTech).
 The initiative aims to streamline and simplify the payroll and employment-related
 regulatory requirements for businesses and employers.</p>
-<p>Currently, businesses are required to submit similar income and employment-related
+<p>Currently, businesses are required to submit similar payroll and employment-related
 information to respective agencies. This includes the annual submission
 of salary data (under Auto-Inclusion Scheme) to IRAS, monthly submission
 of CPF contributions to CPFB, and responses to the Occupational Employment
@@ -23,10 +23,9 @@ or online forms, which require manual preparation.</p>
 <p>With One-Stop Payroll, businesses can make these submissions to IRAS,
 CPFB, and MOM through a single platform, seamlessly via their payroll software.
 As a result, this significantly reduces administrative overheads and eases
-compliance costs of payroll-related regulatory obligations.</p>
+compliance costs of payroll and employment-related regulatory obligations.</p>
 <p>The One-Stop Payroll desired future state:</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSP_desired_end_state_updated.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSP_desired_end_state_updated2.png">
 </div>
 <p></p>
