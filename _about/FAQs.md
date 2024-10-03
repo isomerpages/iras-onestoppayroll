@@ -25,10 +25,10 @@ efficiency and help businesses and employers manage payroll more effectively.</p
 <br>The One-Stop Payroll initiative simplifies the process by integrating
 core filing obligations within the payroll software that businesses already
 use, reducing the time and effort needed to meet regulatory obligations.
-This also helps to ensure greater accuracy and reduces the need for employers
-to reach out to agencies for assistance. Additionally, it enables easy
-compliance and has the potential to streamline filing frequencies to agencies
-in the long term.</p>
+This also helps to ensure greater accuracy and reduces the need for businesses
+and employers to reach out to agencies for assistance. Additionally, it
+enables easy compliance and has the potential to streamline filing frequencies
+to agencies in the long term.</p>
 <p>
 <br>
 </p>
