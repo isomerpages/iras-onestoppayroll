@@ -9,13 +9,13 @@ description: ""
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>What are the key objectives of the One-Stop Payroll initiative? </strong>
-<br>The main goals of the One-Stop Payroll initiative are to make payroll-related
-regulatory requirements easier and more consistent for businesses using
-payroll software, thereby reducing administrative overheads. By integrating
-these payroll-related regulatory requirements seamlessly into a single,
-convenient “one-stop” platform within the payroll software’s existing systems,
-the initiative aims to boost operational efficiency and help businesses
-and employers manage payroll more effectively.</p>
+<br>The main goals of the One-Stop Payroll initiative are to make payroll
+and employment-related regulatory requirements easier and more consistent
+for businesses using payroll software, thereby reducing administrative
+overheads. By integrating these payroll and employment-related regulatory
+requirements seamlessly into a single, convenient “one-stop” platform within
+the payroll software’s existing systems, the initiative aims to boost operational
+efficiency and help businesses and employers manage payroll more effectively.</p>
 <p>
 <br>
 </p>
