@@ -58,7 +58,7 @@ included in the Sandbox API.</p>
 <h3>Step 5: Complete the APEX Production Connectivity Testing</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Log into <a href="https://services.api.developer.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">API Developer Portal</a>,
+<p>Log into <a href="https://api.apex.gov.sg" rel="noopener noreferrer nofollow" target="_blank">API Developer Portal</a>,
 ensure that your <a href="https://docs.developer.tech.gov.sg/docs/complete-apex-user-guide/sections/oauth/introduction" rel="noopener noreferrer nofollow" target="_blank">OAuth 2.1</a> profile
 is set up with the necessary JWKS endpoint, and that your API key is set
 up. Check that your Organization is subscribed to the OAuth2.1 protected
