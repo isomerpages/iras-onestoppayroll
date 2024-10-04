@@ -13,7 +13,7 @@ third_nav_title: As A Software Developer
 set up CorpPass assignments within your company.</p>
 </li>
 <li>
-<p>Log into <a href="https://services.api.developer.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">API Developer Portal</a> and
+<p>Log into <a href="https://api.apex.gov.sg" rel="noopener noreferrer nofollow" target="_blank">API Developer Portal</a> and
 check your profile and Organization (cp_&lt;uen&gt;) is created.</p>
 </li>
 <li>
