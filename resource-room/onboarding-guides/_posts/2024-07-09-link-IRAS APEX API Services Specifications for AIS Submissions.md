@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://file.go.gov.sg/iras-apex-apispecs.pdf
+external: https://www.iras.gov.sg/media/docs/default-source/uploadedfiles/pdf/iras-submission-of-employment-income-(apex)-api-services-interface-specification.pdf?sfvrsn=77208cc8_4
 ---

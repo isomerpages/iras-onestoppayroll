@@ -1,9 +1,9 @@
 ---
 title: Infographic for Software Developers
-date: 2024-07-10
-layout: link
+date: 2024-10-08
+layout: file
 description: ""
 image: ""
 variant: tiptap
-external: https://file.go.gov.sg/osp-swd-infographic.png
+file_url: /files/OSP_Infographic__For_SWDs_Final.pdf
 ---

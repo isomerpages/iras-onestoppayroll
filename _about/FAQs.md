@@ -9,13 +9,13 @@ description: ""
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>What are the key objectives of the One-Stop Payroll initiative? </strong>
-<br>The main goals of the One-Stop Payroll initiative are to make employer-related
-regulatory requirements easier and more consistent for businesses using
-payroll software, thereby reducing administrative overheads. By integrating
-payroll services these employer-related regulatory requirements seamlessly
-into a single, convenient “one-stop” platform within the payroll software’s
-natural systems, the initiative aims to boost operational efficiency and
-help businesses and employers manage payroll more effectively.</p>
+<br>The main goals of the One-Stop Payroll initiative are to make payroll
+and employment-related regulatory requirements easier and more consistent
+for businesses using payroll software, thereby reducing administrative
+overheads. By integrating these payroll and employment-related regulatory
+requirements seamlessly into a single, convenient “one-stop” platform within
+the payroll software’s existing systems, the initiative aims to boost operational
+efficiency and help businesses and employers manage payroll more effectively.</p>
 <p>
 <br>
 </p>
@@ -25,10 +25,10 @@ help businesses and employers manage payroll more effectively.</p>
 <br>The One-Stop Payroll initiative simplifies the process by integrating
 core filing obligations within the payroll software that businesses already
 use, reducing the time and effort needed to meet regulatory obligations.
-This also helps to ensure greater accuracy and reduces the need for employers
-to reach out to agencies for assistance. Additionally, it enables easy
-compliance and has the potential to streamline filing frequencies to agencies
-in the long term.</p>
+This also helps to ensure greater accuracy and reduces the need for businesses
+and employers to reach out to agencies for assistance. Additionally, it
+enables easy compliance and has the potential to streamline filing frequencies
+to agencies in the long term.</p>
 <p>
 <br>
 </p>
@@ -60,9 +60,9 @@ payroll software:
 <p>Overview</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Employers are required to submit monthly CPF contributions (and other
-data) for their employees to CPFB. This API enables employers to make such
-submissions direct from payroll software.</p>
+<p>Businesses/Employers are required to submit monthly CPF contributions
+(and other data) to CPFB. This API enables them to make such submissions
+direct from payroll software.</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +79,7 @@ submissions direct from payroll software.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monthly submission*
-<br><em><br><sub>*The due date for CPF contributions is on the last day of the calendar month. Enforcement action would be taken against employers who fail to pay by the 14th of the following month (or the next working day if the 14th falls on a Saturday, Sunday, or Public Holiday). This includes imposing late payment interest charged at 1.5% per month, commencing from the first day after the due date.</sub></em>
+<br><em><br><sub>*The due date for CPF contributions is on the last day of the calendar month. Enforcement action would be taken against businesses/employers who fail to pay by the 14th of the following month (or the next working day if the 14th falls on a Saturday, Sunday, or Public Holiday). This includes imposing late payment interest charged at 1.5% per month, commencing from the first day after the due date.</sub></em>
 </p>
 </td>
 </tr>
@@ -211,9 +211,11 @@ to software developers and partners involved in the initiative.</p>
 </li>
 <li>
 <p><strong>What are the key milestones and timelines for the implementation of the One -Stop Payroll initiative? </strong>
-<br>The One-Stop Payroll initiative will be rolled out in stages, with the
-anticipated launch date being announced later in 2024. Key milestones and
-phases will be communicated to stakeholders through regular updates.</p>
+<br>The One-Stop Payroll initiative is rolled out in stages, with a soft launch
+of the One-Stop Payroll microsite in Aug 2024, followed by an official
+launch through collaborations with partners and Trade Associations &amp;
+Chambers (TACs) later in Q4 2024. Further updates and developments will
+be communicated via the microsite.</p>
 <p>
 <br>
 </p>
@@ -231,12 +233,9 @@ stakeholders are well-informed about the initiative's progress and features.</p>
 </li>
 <li>
 <p><strong>Will there be support and resources available to assist businesses in transitioning to the One-Stop Payroll initiative? </strong>
-<br>Yes, comprehensive support and resources will be provided to assist businesses
-in transitioning to the One-Stop Payroll platform. This will include training
-materials, user guides, and dedicated support channels to address any queries
-or challenges encountered during the transition. The aim is to facilitate
-a smooth and seamless transition for software developers, businesses and
-employers.</p>
+<br>Yes, you may refer to the linked onboarding guides for <a href="https://www.onestoppayroll.gov.sg/partner-with-us/software-developer/" rel="noopener noreferrer nofollow" target="_blank">Software Developers</a> and
+<a href="https://www.onestoppayroll.gov.sg/partner-with-us/business-employer/" rel="noopener noreferrer nofollow" target="_blank">Businesses or Employers</a>. More support and resources are also available
+in the <a href="https://www.onestoppayroll.gov.sg/resource-room/" rel="noopener noreferrer nofollow" target="_blank">Resource Room</a>.</p>
 <p>
 <br>
 </p>

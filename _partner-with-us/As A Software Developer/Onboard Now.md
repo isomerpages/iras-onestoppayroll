@@ -1,10 +1,11 @@
 ---
-title: Onboarding Steps for Software Developers
+title: Onboard Now
 permalink: /partner-with-us/software-developer/onboarding-steps/
 variant: tiptap
 description: ""
 third_nav_title: As A Software Developer
 ---
+<h3><strong>Onboarding Steps for Software Developers</strong></h3>
 <h3>Step 1: Create and Setup your APEX account (one-time only)</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -12,7 +13,7 @@ third_nav_title: As A Software Developer
 set up CorpPass assignments within your company.</p>
 </li>
 <li>
-<p>Log into <a href="https://services.api.developer.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">API Developer Portal</a> and
+<p>Log into <a href="https://api.apex.gov.sg" rel="noopener noreferrer nofollow" target="_blank">API Developer Portal</a> and
 check your profile and Organization (cp_&lt;uen&gt;) is created.</p>
 </li>
 <li>
@@ -32,7 +33,7 @@ authorize your Organization to the Sandbox APIs.</p>
 <h3>Step 3: Complete the APEX Sandbox Connectivity Testing</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Log into <a href="https://services.api.developer.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">API Developer Portal</a>,
+<p>Log into <a href="https://api.apex.gov.sg" rel="noopener noreferrer nofollow" target="_blank">API Developer Portal</a>,
 ensure that your <a href="https://docs.developer.tech.gov.sg/docs/complete-apex-user-guide/sections/oauth/introduction" rel="noopener noreferrer nofollow" target="_blank">OAuth 2.1</a> profile
 is set up with the necessary JWKS endpoint, and that your API key is set
 up. Check that your Organization is subscribed to the OAuth2.1 protected
@@ -57,7 +58,7 @@ included in the Sandbox API.</p>
 <h3>Step 5: Complete the APEX Production Connectivity Testing</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Log into <a href="https://services.api.developer.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">API Developer Portal</a>,
+<p>Log into <a href="https://api.apex.gov.sg" rel="noopener noreferrer nofollow" target="_blank">API Developer Portal</a>,
 ensure that your <a href="https://docs.developer.tech.gov.sg/docs/complete-apex-user-guide/sections/oauth/introduction" rel="noopener noreferrer nofollow" target="_blank">OAuth 2.1</a> profile
 is set up with the necessary JWKS endpoint, and that your API key is set
 up. Check that your Organization is subscribed to the OAuth2.1 protected
