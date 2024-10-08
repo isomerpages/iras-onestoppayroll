@@ -10,7 +10,7 @@ third_nav_title: As A Software Developer
 </div>
 <h3>How OSP Works</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSP_How_OSP_Works.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSP_How_it_works_updated.png">
 </div>
 <h3>Benefits of Integrating OSP with Your Software</h3>
 <p><strong>By becoming a One-Stop Payroll-ready vendor, you can benefit from:</strong>
