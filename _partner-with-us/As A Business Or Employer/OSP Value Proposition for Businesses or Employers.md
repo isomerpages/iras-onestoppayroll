@@ -6,11 +6,11 @@ description: ""
 third_nav_title: As A Business Or Employer
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSP_Employer_ValuePro.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSP_Business_Employer_ValuePro.png">
 </div>
 <h3>How OSP Simplifies Your Filing Experience</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSP_How_OSP_Works.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OSP_How_it_works_updated.png">
 </div>
 <h3>How Adopting OSP Benefits You</h3>
 <ul data-tight="true" class="tight">
