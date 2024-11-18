@@ -7,10 +7,84 @@ description: ""
 <h1>One-Stop Payroll (OSP) Vendor Listing</h1>
 <h4>OSP-Ready<strong> </strong>Payroll Software Vendors</h4>
 <p>The following payroll software vendors are One-Stop Payroll (OSP)-ready,
-and are able to support submissions of salary information (under the Auto-Inclusion
-Scheme) to IRAS for Year of Assessment 2024, employees’ CPF contribution
-information to CPFB, and survey responses to the Occupational Employment
-Dataset and labour market surveys administered by MOM, via API.</p>
+and are able to support submissions of salary information (under the
+<a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/submit-employment-income-records" rel="noopener nofollow" target="_blank">Auto-Inclusion Scheme</a>) to IRAS for <strong>Year of Assessment 2025</strong>,
+employees’ CPF contribution information to CPFB, and survey responses to
+the Occupational Employment Dataset and labour market surveys administered
+by MOM, via API.</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>S/N</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Payroll Vendor</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Website</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Contact No.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>INFO-TECH SYSTEMS INTEGRATORS PTE. LTD.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.info-tech.com.sg/payroll-software" rel="noopener noreferrer nofollow" target="_blank">https://www.info-tech.com.sg/payroll-software</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>62973398</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sales@info-tech.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@info-tech.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WHYZE SOLUTIONS PTE. LTD.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://whyze.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://whyze.com.sg/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>68380161</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:enquiry@whyze.com.sg" rel="noopener noreferrer nofollow" target="_blank">enquiry@whyze.com.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>The following payroll software vendors are One-Stop Payroll (OSP)-ready,
+and are able to support submissions of salary information (under the
+<a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/submit-employment-income-records" rel="noopener nofollow" target="_blank">Auto-Inclusion Scheme</a>) to IRAS for <strong>Year of Assessment 2024</strong>,
+employees’ CPF contribution information to CPFB, and survey responses to
+the Occupational Employment Dataset and labour market surveys administered
+by MOM, via API.</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
