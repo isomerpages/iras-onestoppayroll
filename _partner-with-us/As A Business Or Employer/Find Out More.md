@@ -8,7 +8,7 @@ third_nav_title: As A Business Or Employer
 <h2>Find Out More</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p>Adopt an OSP-ready software from the <a href="https://staging.d2nyvm7cspqo8.amplifyapp.com/osp-vendor-listing/" rel="noopener nofollow" target="_blank"><u>One-Stop Payroll Vendor Listing</u></a> and
+<p>Adopt an OSP-ready software from the <a href="https://www.onestoppayroll.gov.sg/osp-vendor-listing/" rel="noopener nofollow" target="_blank"><u>One-Stop Payroll Vendor Listing</u></a> and
 find out more from the software listed about your payroll needs.</p>
 </li>
 <li>
@@ -16,7 +16,7 @@ find out more from the software listed about your payroll needs.</p>
 defray the cost of adoption.</p>
 </li>
 <li>
-<p><a href="https://staging.d2nyvm7cspqo8.amplifyapp.com/support/" rel="noopener nofollow" target="_blank"><u>Get in touch with us</u></a> if
+<p><a href="https://www.onestoppayroll.gov.sg/support/" rel="noopener nofollow" target="_blank"><u>Get in touch with us</u></a> if
 you have query on the CPFB, IRAS, MOM APIs and GovTech’s APEX portal. &nbsp;</p>
 </li>
 </ul>
