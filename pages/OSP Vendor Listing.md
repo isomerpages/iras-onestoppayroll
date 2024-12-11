@@ -62,6 +62,68 @@ by MOM, via API.</p>
 <p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>JUSTLOGIN PTE LTD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://justlogin.com/payroll-software/" rel="noopener noreferrer nofollow" target="_blank">https://justlogin.com/payroll-software/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>69099217
+<br>31295281</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sales@justlogin.com" rel="noopener noreferrer nofollow" target="_blank">sales@justlogin.com</a> 
+<br><a href="mailto:support@justlogin.com" rel="noopener noreferrer nofollow" target="_blank">support@justlogin.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ROCKBELL INTERNATIONAL SOFTWARE PTE. LTD.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.rockbell.sg/payroll-software/" rel="noopener noreferrer nofollow" target="_blank">https://www.rockbell.sg/payroll-software/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64697720
+<br>92268890</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">sales@rockbell.com.sg</a> 
+<br><a rel="noopener noreferrer nofollow" target="_blank">sales@million.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TIMES SOFTWARE PTE LTD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.timesoftsg.com.sg/payroll-software/" rel="noopener noreferrer nofollow" target="_blank">https://www.timesoftsg.com.sg/payroll-software/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>62951998</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">sales@timesoftsg.com.sg</a> 
+<br><a rel="noopener noreferrer nofollow" target="_blank">support@timesoftsghelp.zendesk.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>WHYZE SOLUTIONS PTE. LTD.</p>
 </td>
 <td rowspan="1" colspan="1">
