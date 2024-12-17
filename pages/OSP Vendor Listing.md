@@ -43,6 +43,25 @@ by MOM, via API.</p>
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>HR EASILY PTE. LTD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://hreasily.com/" rel="noopener noreferrer nofollow" target="_blank">https://hreasily.com/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>97661776</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sharon@hreasily.com" rel="noopener noreferrer nofollow" target="_blank">sharon@hreasily.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>INFO-TECH SYSTEMS INTEGRATORS PTE. LTD.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,7 +78,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.</p>
+<p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>JUSTLOGIN PTE LTD</p>
@@ -80,7 +99,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.</p>
+<p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ROCKBELL INTERNATIONAL SOFTWARE PTE. LTD.</p>
@@ -101,7 +120,26 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.</p>
+<p>5.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TALENOX PTE. LTD.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.talenox.com/sg/payroll/" rel="noopener noreferrer nofollow" target="_blank">https://www.talenox.com/sg/payroll/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.A.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hello@talenox.com" rel="noopener noreferrer nofollow" target="_blank">hello@talenox.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TIMES SOFTWARE PTE LTD</p>
@@ -121,7 +159,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5.</p>
+<p>7.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>WHYZE SOLUTIONS PTE. LTD.</p>
