@@ -43,17 +43,17 @@ by MOM, via API.</p>
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HR EASILY PTE. LTD</p>
+<p>HR EASILY PTE. LTD.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://hreasily.com/" rel="noopener noreferrer nofollow" target="_blank">https://hreasily.com/</a>
+<p><a href="https://hreasilygroup.com/" rel="noopener noreferrer nofollow" target="_blank">https://hreasilygroup.com/</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>97661776</p>
+<p>83477365</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sharon@hreasily.com" rel="noopener noreferrer nofollow" target="_blank">sharon@hreasily.com</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">support@hreasilygroup.com</a>
 </p>
 </td>
 </tr>
@@ -81,7 +81,7 @@ by MOM, via API.</p>
 <p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JUSTLOGIN PTE LTD</p>
+<p>JUSTLOGIN PTE. LTD.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://justlogin.com/payroll-software/" rel="noopener noreferrer nofollow" target="_blank">https://justlogin.com/payroll-software/</a>
@@ -142,7 +142,7 @@ by MOM, via API.</p>
 <p>6.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TIMES SOFTWARE PTE LTD</p>
+<p>TIMES SOFTWARE PTE. LTD.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.timesoftsg.com.sg/payroll-software/" rel="noopener noreferrer nofollow" target="_blank">https://www.timesoftsg.com.sg/payroll-software/</a>
@@ -240,7 +240,7 @@ by MOM, via API.</p>
 <p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JUSTLOGIN PTE LTD</p>
+<p>JUSTLOGIN PTE. LTD.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://justlogin.com/payroll-software/" rel="noopener noreferrer nofollow" target="_blank">https://justlogin.com/payroll-software/</a>
@@ -301,7 +301,7 @@ by MOM, via API.</p>
 <p>5.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TIMES SOFTWARE PTE LTD</p>
+<p>TIMES SOFTWARE PTE. LTD.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.timesoftsg.com.sg/payroll-software/" rel="noopener noreferrer nofollow" target="_blank">https://www.timesoftsg.com.sg/payroll-software/</a>
