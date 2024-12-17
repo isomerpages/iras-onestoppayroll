@@ -46,7 +46,7 @@ by MOM, via API.</p>
 <p>HR EASILY PTE. LTD.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://hreasilygroup.com" rel="noopener noreferrer nofollow" target="_blank">https://hreasilygroup.com</a> 
+<p><a href="https://hreasilygroup.com" rel="noopener noreferrer nofollow" target="_blank">https://hreasilygroup.com</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
