@@ -43,6 +43,42 @@ by MOM, via API.</p>
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>CUTECH INFOCOMM SOLUTIONS PTE. LTD.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FRONTIER E-HR PTE LTD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.frontier-ehr.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.frontier-ehr.com/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>63910921</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:enquiry@frontier-ehr.com" rel="noopener noreferrer nofollow" target="_blank">enquiry@frontier-ehr.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>HR EASILY PTE. LTD.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,7 +95,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.</p>
+<p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>INFO-TECH SYSTEMS INTEGRATORS PTE. LTD.</p>
@@ -78,7 +114,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.</p>
+<p>5.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>JUSTLOGIN PTE. LTD.</p>
@@ -99,7 +135,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.</p>
+<p>6.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ROCKBELL INTERNATIONAL SOFTWARE PTE. LTD.</p>
@@ -120,7 +156,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5.</p>
+<p>7.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TALENOX PTE. LTD.</p>
@@ -139,7 +175,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6.</p>
+<p>8.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TIMES SOFTWARE PTE. LTD.</p>
@@ -159,7 +195,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7.</p>
+<p>9.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>WHYZE SOLUTIONS PTE. LTD.</p>
