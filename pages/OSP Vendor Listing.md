@@ -43,7 +43,7 @@ by MOM, via API.</p>
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CUTECH INFOCOMM SOLUTIONS PTE. LTD.</p>
+<p>CUTE INFOCOMM SOLUTIONS PTE. LTD.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.cuteoffice.org" rel="noopener noreferrer nofollow" target="_blank">https://www.cuteoffice.org</a>
