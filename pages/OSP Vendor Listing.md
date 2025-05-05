@@ -214,6 +214,25 @@ by MOM, via API.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZEALYS PTE. LTD.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p> <a href="https://zealys.com/" rel="noopener noreferrer nofollow" target="_blank">https://zealys.com/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>88758111</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hello@zealys.com" rel="noopener noreferrer nofollow" target="_blank">hello@zealys.com</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
