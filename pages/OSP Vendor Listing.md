@@ -43,6 +43,26 @@ by MOM, via API.</p>
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>ASIAN BUSINESS SOFTWARE SOLUTIONS PTE. LTD.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://financio.co/sg/support</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65056583</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:support@financio.co" rel="noopener noreferrer nofollow" target="_blank">support@financio.co</a>
+<br><a href="mailto:customersuccess@financio.co" rel="noopener noreferrer nofollow" target="_blank">customersuccess@financio.co</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>CUTE INFOCOMM SOLUTIONS PTE. LTD.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,7 +79,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.</p>
+<p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>FRONTIER E-HR PTE. LTD.</p>
@@ -78,7 +98,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.</p>
+<p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HR EASILY PTE. LTD.</p>
@@ -91,13 +111,13 @@ by MOM, via API.</p>
 <p>83477365</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">support@hreasilygroup.com</a>
+<p><a href="mailto:support@hreasilygroup.com" rel="noopener noreferrer nofollow" target="_blank">support@hreasilygroup.com</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.</p>
+<p>5.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>INFO-TECH SYSTEMS INTEGRATORS PTE. LTD.</p>
@@ -116,7 +136,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5.</p>
+<p>6.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>JUSTLOGIN PTE. LTD.</p>
@@ -137,7 +157,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6.</p>
+<p>7.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ROCKBELL INTERNATIONAL SOFTWARE PTE. LTD.</p>
@@ -151,14 +171,14 @@ by MOM, via API.</p>
 <br>92268890</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sales@rockbell.com.sg</a> 
-<br><a rel="noopener noreferrer nofollow" target="_blank">sales@million.sg</a>
+<p><a href="mailto:sales@rockbell.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@rockbell.com.sg</a> 
+<br><a href="mailto:sales@million.sg" rel="noopener noreferrer nofollow" target="_blank">sales@million.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7.</p>
+<p>8.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TALENOX PTE. LTD.</p>
@@ -177,7 +197,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8.</p>
+<p>9.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TIMES SOFTWARE PTE. LTD.</p>
@@ -190,14 +210,14 @@ by MOM, via API.</p>
 <p>62951998</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sales@timesoftsg.com.sg</a> 
-<br><a rel="noopener noreferrer nofollow" target="_blank">support@timesoftsghelp.zendesk.com</a>
+<p><a href="mailto:sales@timesoftsg.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@timesoftsg.com.sg</a> 
+<br><a href="mailto:support@timesoftsghelp.zendesk.com" rel="noopener noreferrer nofollow" target="_blank">support@timesoftsghelp.zendesk.com</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.</p>
+<p>10.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>WHYZE SOLUTIONS PTE. LTD.</p>
@@ -216,13 +236,13 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.</p>
+<p>11.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ZEALYS PTE. LTD.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p> <a href="https://zealys.com/" rel="noopener noreferrer nofollow" target="_blank">https://zealys.com/</a>
+<p><a href="https://zealys.com/" rel="noopener noreferrer nofollow" target="_blank">https://zealys.com/</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
