@@ -58,9 +58,8 @@ by MOM, via API.</p>
 <br>67087398</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:info@adaptivepay.com.sg" rel="noopener noreferrer nofollow" target="_blank">info@adaptivepay.com.sg</a>
-</p>
-<p><a href="mailto:info@adaptivebizapp.com" rel="noopener noreferrer nofollow" target="_blank">info@adaptivebizapp.com</a>
+<p><a href="mailto:info@adaptivepay.com.sg" rel="noopener noreferrer nofollow" target="_blank">info@adaptivepay.com.sg </a>
+<a href="mailto:info@adaptivebizapp.com" rel="noopener noreferrer nofollow" target="_blank">info@adaptivebizapp.com</a>
 </p>
 </td>
 </tr>
