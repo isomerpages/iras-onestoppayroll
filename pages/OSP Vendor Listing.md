@@ -55,7 +55,7 @@ by MOM, via API.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>67089398
-<br>67087398</p>
+<br>67089378</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:info@adaptivepay.com.sg" rel="noopener noreferrer nofollow" target="_blank">info@adaptivepay.com.sg </a>
