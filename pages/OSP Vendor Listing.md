@@ -249,6 +249,28 @@ by MOM, via API.</p>
 <p>11.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>SAP ASIA PTE. LTD.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sap.com" rel="noopener noreferrer nofollow" target="_blank">https://www.sap.com</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>91801839</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ce.tan@sap.com" rel="noopener noreferrer nofollow" target="_blank">ce.tan@sap.com</a>
+</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>TALENOX PTE. LTD.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -265,7 +287,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12.</p>
+<p>13.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TIMES SOFTWARE PTE. LTD.</p>
@@ -285,7 +307,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13.</p>
+<p>14.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>UNIT4 ASIA PACIFIC PTE. LTD.</p>
@@ -305,7 +327,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14.</p>
+<p>15.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>WHYZE SOLUTIONS PTE. LTD.</p>
@@ -324,7 +346,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15.</p>
+<p>16.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ZEALYS PTE. LTD.</p>
