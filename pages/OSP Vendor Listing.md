@@ -81,11 +81,32 @@ by MOM, via API.</p>
 <p><a href="mailto:support@financio.co" rel="noopener noreferrer nofollow" target="_blank">support@financio.co</a>
 <br><a href="mailto:customersuccess@financio.co" rel="noopener noreferrer nofollow" target="_blank">customersuccess@financio.co</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>3.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AUTOCOUNT (S) PTE. LTD.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.autocountsoft.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.autocountsoft.com.sg/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>67479790
+<br>82263620</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sales.sg@autocountsoft.com" rel="noopener noreferrer nofollow" target="_blank">sales.sg@autocountsoft.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CUTE INFOCOMM SOLUTIONS PTE. LTD.</p>
@@ -104,7 +125,29 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.</p>
+<p>5.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ENABLE BUSINESS PTE. LTD.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quickhr.co/" rel="noopener noreferrer nofollow" target="_blank">https://quickhr.co/</a>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>69088158&nbsp;
+<br>87900895</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:contact@yourvendor.com" rel="noopener noreferrer nofollow" target="_blank">sales@quickhr.co</a>
+<br><a href="mailto:support@quickhr.co" rel="noopener noreferrer nofollow" target="_blank">support@quickhr.co</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>FRONTIER E-HR PTE. LTD.</p>
@@ -123,7 +166,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5.</p>
+<p>7.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HR EASILY PTE. LTD.</p>
@@ -142,7 +185,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6.</p>
+<p>8.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>INFO-TECH SYSTEMS INTEGRATORS PTE. LTD.</p>
@@ -161,7 +204,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7.</p>
+<p>9.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>JUSTLOGIN PTE. LTD.</p>
@@ -182,7 +225,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8.</p>
+<p>10.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ROCKBELL INTERNATIONAL SOFTWARE PTE. LTD.</p>
@@ -203,7 +246,29 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.</p>
+<p>11.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAP ASIA PTE. LTD.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sap.com" rel="noopener noreferrer nofollow" target="_blank">https://www.sap.com</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>91801839</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ce.tan@sap.com" rel="noopener noreferrer nofollow" target="_blank">ce.tan@sap.com</a>
+</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TALENOX PTE. LTD.</p>
@@ -222,7 +287,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.</p>
+<p>13.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TIMES SOFTWARE PTE. LTD.</p>
@@ -242,7 +307,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.</p>
+<p>14.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>UNIT4 ASIA PACIFIC PTE. LTD.</p>
@@ -262,7 +327,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12.</p>
+<p>15.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>WHYZE SOLUTIONS PTE. LTD.</p>
@@ -281,7 +346,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13.</p>
+<p>16.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ZEALYS PTE. LTD.</p>
