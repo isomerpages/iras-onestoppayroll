@@ -106,6 +106,25 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BIPO SERVICE (SINGAPORE) PTE. LTD.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.biposervice.com" rel="noopener noreferrer nofollow" target="_blank">https://www.biposervice.com</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64328380</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hello@biposervice.com" rel="noopener noreferrer nofollow" target="_blank">hello@biposervice.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
