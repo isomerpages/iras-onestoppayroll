@@ -188,6 +188,25 @@ by MOM, via API.</p>
 <p>8.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>HRNETGROUP LIMITED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.hrnetgroup.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.hrnetgroup.com/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:help@ease.works" rel="noopener noreferrer nofollow" target="_blank">help@ease.works</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>INFO-TECH SYSTEMS INTEGRATORS PTE. LTD.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -204,7 +223,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.</p>
+<p>10.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>JUSTLOGIN PTE. LTD.</p>
@@ -225,7 +244,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.</p>
+<p>11.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ROCKBELL INTERNATIONAL SOFTWARE PTE. LTD.</p>
@@ -246,7 +265,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.</p>
+<p>12.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAP ASIA PTE. LTD.</p>
@@ -268,7 +287,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12.</p>
+<p>13.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TALENOX PTE. LTD.</p>
@@ -287,7 +306,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13.</p>
+<p>14.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TIMES SOFTWARE PTE. LTD.</p>
@@ -307,7 +326,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14.</p>
+<p>15.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>UNIT4 ASIA PACIFIC PTE. LTD.</p>
@@ -327,7 +346,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15.</p>
+<p>16.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>WHYZE SOLUTIONS PTE. LTD.</p>
@@ -346,7 +365,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16.</p>
+<p>17.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ZEALYS PTE. LTD.</p>
