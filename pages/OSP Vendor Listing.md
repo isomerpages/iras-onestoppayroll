@@ -8,7 +8,7 @@ description: ""
 <h4>OSP-Ready<strong> </strong>Payroll Software Vendors</h4>
 <p>The following payroll software vendors are One-Stop Payroll (OSP)-ready,
 and are able to support submissions of salary information (under the
-<a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/submit-employment-income-records" rel="noopener nofollow" target="_blank">Auto-Inclusion Scheme</a>) to IRAS for <strong>Year of Assessment 2025</strong>,
+<a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/submit-employment-income-records" rel="noopener nofollow" target="_blank">Auto-Inclusion Scheme</a>) to IRAS for <strong>Year of Assessment 2026</strong>,
 employees’ CPF contribution information to CPFB, and survey responses to
 the Occupational Employment Dataset and labour market surveys administered
 by MOM, via API.</p>
