@@ -8,7 +8,7 @@ description: ""
 <h4>OSP-Ready<strong> </strong>Payroll Software Vendors</h4>
 <p>The following payroll software vendors are One-Stop Payroll (OSP)-ready,
 and are able to support submissions of salary information (under the
-<a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/submit-employment-income-records" rel="noopener nofollow" target="_blank">Auto-Inclusion Scheme</a>) to IRAS for <strong>Year of Assessment 2025</strong>,
+<a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/submit-employment-income-records" rel="noopener nofollow" target="_blank">Auto-Inclusion Scheme</a>) to IRAS for <strong>Year of Assessment 2026</strong>,
 employees’ CPF contribution information to CPFB, and survey responses to
 the Occupational Employment Dataset and labour market surveys administered
 by MOM, via API.</p>
@@ -205,7 +205,28 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.</p>
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ESOL SOFT PTE. LTD.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.payrollers.com" rel="noopener noreferrer nofollow" target="_blank">www.payrollers.com</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>63969969
+<br>96906969</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:karthik@payrollers.com" rel="noopener noreferrer nofollow" target="_blank">karthik@payrollers.com</a>
+<br><a href="mailto:hello@payrollers.com" rel="noopener noreferrer nofollow" target="_blank">hello@payrollers.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>FRONTIER E-HR PTE. LTD.</p>
@@ -224,7 +245,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.</p>
+<p>11.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HR EASILY PTE. LTD.</p>
@@ -243,7 +264,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.</p>
+<p>12.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HRNETGROUP LIMITED</p>
@@ -263,7 +284,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12.</p>
+<p>13.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>INFO-TECH SYSTEMS INTEGRATORS PTE. LTD.</p>
@@ -282,7 +303,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13.</p>
+<p>14.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>JUSTLOGIN PTE. LTD.</p>
@@ -303,7 +324,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14.</p>
+<p>15.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ROCKBELL INTERNATIONAL SOFTWARE PTE. LTD.</p>
@@ -324,7 +345,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15.</p>
+<p>16.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAP ASIA PTE. LTD.</p>
@@ -346,7 +367,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16.</p>
+<p>17.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TALENOX PTE. LTD.</p>
@@ -365,7 +386,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17.</p>
+<p>18.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TIMES SOFTWARE PTE. LTD.</p>
@@ -385,7 +406,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18.</p>
+<p>19.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>UNIT4 ASIA PACIFIC PTE. LTD.</p>
@@ -405,7 +426,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19.</p>
+<p>20.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>WHYZE SOLUTIONS PTE. LTD.</p>
@@ -424,7 +445,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20.</p>
+<p>21.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ZEALYS PTE. LTD.</p>
