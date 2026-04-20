@@ -201,6 +201,25 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DIGILLIUM PTE LTD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<a href="https://www.digillium.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.digillium.com/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>84944930</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<a href="mailto:digilliumsg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">digilliumsg@gmail.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>9.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -297,6 +316,26 @@ by MOM, via API.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:help@ease.jobs" rel="noopener noreferrer nofollow" target="_blank">help@ease.job </a>
 <br><a href="mailto:hello@octomate.us" rel="noopener noreferrer nofollow" target="_blank">hello@octomate.us</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I-HRMS PTE. LTD.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://i-hrms.asia/" rel="noopener noreferrer nofollow" target="_blank">https://i-hrms.asia/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65898688</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:support@i-hrms.com.sg" rel="noopener noreferrer nofollow" target="_blank">support@i-hrms.com.sg</a>
+<br><a href="mailto:sales@i-hrms.asia" rel="noopener noreferrer nofollow" target="_blank">sales@i-hrms.asia</a>
 </p>
 </td>
 </tr>
