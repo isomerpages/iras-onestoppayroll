@@ -201,7 +201,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>DIGILLIUM PTE LTD</p>
@@ -220,7 +220,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.</p>
+<p>10.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ENABLE BUSINESS PTE. LTD.</p>
@@ -242,7 +242,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.</p>
+<p>11.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ESOL SOFT PTE. LTD.</p>
@@ -263,7 +263,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.</p>
+<p>12.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>FRONTIER E-HR PTE. LTD.</p>
@@ -282,7 +282,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12.</p>
+<p>13.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HR EASILY PTE. LTD.</p>
@@ -301,7 +301,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13.</p>
+<p>14.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HRNETGROUP LIMITED</p>
@@ -321,7 +321,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>15.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>I-HRMS PTE. LTD.</p>
@@ -341,7 +341,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14.</p>
+<p>16.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>INFO-TECH SYSTEMS INTEGRATORS PTE. LTD.</p>
@@ -360,7 +360,28 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15.</p>
+<p>17.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JMC TECHNOLOGIES PTE. LTD.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.rgist.com" rel="noopener noreferrer nofollow" target="_blank">www.rgist.com</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>97380493
+<br>(60)166382339</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Weichang.lee@jmcsg.com" rel="noopener noreferrer nofollow" target="_blank"><u>Weichang.lee@jmcsg.com</u></a>
+<br><a href="mailto:Margaret.ang@jmcsg.com" rel="noopener noreferrer nofollow" target="_blank"><u>Margaret.ang@jmcsg.com</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>JUSTLOGIN PTE. LTD.</p>
@@ -381,7 +402,45 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16.</p>
+<p>19.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NET SOLUTIONS PTE LTD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.asurix.com" rel="noopener noreferrer nofollow" target="_blank">https://www.asurix.com</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64750319</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:info@asurix.com" rel="noopener noreferrer nofollow" target="_blank">info@asurix.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OPENSOFT PTE. LTD.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.opensofthr.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.opensofthr.com/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>63461511</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sales@opensofthr.com" rel="noopener noreferrer nofollow" target="_blank">sales@opensofthr.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ROCKBELL INTERNATIONAL SOFTWARE PTE. LTD.</p>
@@ -402,7 +461,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17.</p>
+<p>22.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAP ASIA PTE. LTD.</p>
@@ -424,7 +483,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18.</p>
+<p>23.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TALENOX PTE. LTD.</p>
@@ -443,7 +502,27 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19.</p>
+<p>24.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TEAMBUILD SOLUTIONS PTE LTD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ehr.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.ehr.com.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>86598058</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sales@ehr.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@ehr.com.sg</a>
+<br><a href="mailto:support@ehr.com.sg" rel="noopener noreferrer nofollow" target="_blank">support@ehr.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TIMES SOFTWARE PTE. LTD.</p>
@@ -463,7 +542,28 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20.</p>
+<p>26.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>UIC ASIAN COMPUTER SERVICES PTE LTD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.uicacs.com/service/paymaster/" rel="noopener noreferrer nofollow" target="_blank">https://www.uicacs.com/service/paymaster/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64441131
+<br>62415388</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Hrsupport@uictech.com.sg" rel="noopener noreferrer nofollow" target="_blank">Hrsupport@uictech.com.sg</a>
+<br><a href="mailto:Amyg@uictech.com.sg" rel="noopener noreferrer nofollow" target="_blank">Amyg@uictech.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>UNIT4 ASIA PACIFIC PTE. LTD.</p>
@@ -483,7 +583,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21.</p>
+<p>28.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>WHYZE SOLUTIONS PTE. LTD.</p>
@@ -502,7 +602,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22.</p>
+<p>29.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ZEALYS PTE. LTD.</p>
