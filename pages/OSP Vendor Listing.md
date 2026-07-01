@@ -382,6 +382,25 @@ by MOM, via API.</p>
 <p>18.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>ISOFT APPS PTE LTD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://isoft.sg/" rel="noopener noreferrer nofollow" target="_blank">https://isoft.sg/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>68951501</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hello@isoft.sg" rel="noopener noreferrer nofollow" target="_blank">hello@isoft.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>JMC TECHNOLOGIES PTE. LTD.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -400,7 +419,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19.</p>
+<p>20.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>JUSTLOGIN PTE. LTD.</p>
@@ -421,7 +440,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20.</p>
+<p>21.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NET SOLUTIONS PTE LTD</p>
@@ -440,7 +459,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21.</p>
+<p>22.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>OPENSOFT PTE. LTD.</p>
@@ -459,7 +478,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22.</p>
+<p>23.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PAYBOY PTE. LTD.</p>
@@ -478,7 +497,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23.</p>
+<p>24.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ROCKBELL INTERNATIONAL SOFTWARE PTE. LTD.</p>
@@ -499,7 +518,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24.</p>
+<p>25.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAP ASIA PTE. LTD.</p>
@@ -521,7 +540,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25.</p>
+<p>26.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TALENOX PTE. LTD.</p>
@@ -540,7 +559,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26.</p>
+<p>27.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TEAMBUILD SOLUTIONS PTE LTD</p>
@@ -560,7 +579,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27.</p>
+<p>28.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TIMES SOFTWARE PTE. LTD.</p>
@@ -580,7 +599,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28.</p>
+<p>29.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>UIC ASIAN COMPUTER SERVICES PTE LTD</p>
@@ -601,7 +620,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29.</p>
+<p>30.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>UNIT4 ASIA PACIFIC PTE. LTD.</p>
@@ -621,7 +640,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30.</p>
+<p>31.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>WHYZE SOLUTIONS PTE. LTD.</p>
@@ -640,7 +659,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>31.</p>
+<p>32.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ZEALYS PTE. LTD.</p>
