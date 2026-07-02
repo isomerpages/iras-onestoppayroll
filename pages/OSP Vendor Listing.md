@@ -721,6 +721,4 @@ Agencies makes no warranty or representation on any aspect of any software
 listed on the One-Stop Payroll Vendor Listing. The Agencies will not be
 liable for any losses or damages, loss of income, profit or savings, or
 indirect, incidental, special, consequential or punitive damages arising
-from or in connection with the use of any of the software.
-<br>
-</p>
+from or in connection with the use of any of the software.</p>
