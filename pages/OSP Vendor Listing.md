@@ -182,6 +182,25 @@ by MOM, via API.</p>
 <p>8.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>CAPPS SOLUTIONS PTE LTD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.payadvisormobile.com" rel="noopener noreferrer nofollow" target="_blank">www.payadvisormobile.com</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65090309</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:contact@capps.com.sg" rel="noopener noreferrer nofollow" target="_blank">contact@capps.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>CARBONATE PTE. LTD.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -198,7 +217,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.</p>
+<p>10.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CLOUDE8 PTE LTD</p>
@@ -216,7 +235,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.</p>
+<p>11.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CUTE INFOCOMM SOLUTIONS PTE. LTD.</p>
@@ -235,7 +254,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.</p>
+<p>12.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>DIGILLIUM PTE LTD</p>
@@ -254,7 +273,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12.</p>
+<p>13.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ENABLE BUSINESS PTE. LTD.</p>
@@ -276,7 +295,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13.</p>
+<p>14.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ESOL SOFT PTE. LTD.</p>
@@ -297,7 +316,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14.</p>
+<p>15.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>FRONTIER E-HR PTE. LTD.</p>
@@ -316,7 +335,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15.</p>
+<p>16.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HR EASILY PTE. LTD.</p>
@@ -335,7 +354,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16.</p>
+<p>17.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HRNETGROUP LIMITED</p>
@@ -355,7 +374,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17.</p>
+<p>18.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>I-HRMS PTE. LTD.</p>
@@ -375,7 +394,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18.</p>
+<p>19.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>INFO-TECH SYSTEMS INTEGRATORS PTE. LTD.</p>
@@ -394,7 +413,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19.</p>
+<p>20.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISOFT APPS PTE LTD</p>
@@ -413,7 +432,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20.</p>
+<p>21.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>JMC TECHNOLOGIES PTE. LTD.</p>
@@ -434,7 +453,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21.</p>
+<p>22.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>JUSTLOGIN PTE. LTD.</p>
@@ -455,7 +474,26 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22.</p>
+<p>23.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MELIORIS PTE LTD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.melioris.biz/" rel="noopener noreferrer nofollow" target="_blank">https://www.melioris.biz/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>67416710</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:contact@melioris.biz" rel="noopener noreferrer nofollow" target="_blank">contact@melioris.biz</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NET SOLUTIONS PTE LTD</p>
@@ -474,7 +512,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23.</p>
+<p>25.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>OPENSOFT PTE. LTD.</p>
@@ -493,7 +531,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24.</p>
+<p>26.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PAYBOY PTE. LTD.</p>
@@ -512,7 +550,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25.</p>
+<p>27.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PAYROLL2U PTE LTD</p>
@@ -531,7 +569,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26.</p>
+<p>28.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ROCKBELL INTERNATIONAL SOFTWARE PTE. LTD.</p>
@@ -552,7 +590,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27.</p>
+<p>29.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAP ASIA PTE. LTD.</p>
@@ -574,7 +612,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28.</p>
+<p>30.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TALENOX PTE. LTD.</p>
@@ -593,7 +631,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29.</p>
+<p>31.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TEAMBUILD SOLUTION PTE LTD</p>
@@ -613,7 +651,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30.</p>
+<p>32.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TIMES SOFTWARE PTE. LTD.</p>
@@ -633,7 +671,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>31.</p>
+<p>33.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>UIC ASIAN COMPUTER SERVICES PTE LTD</p>
@@ -654,7 +692,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>32.</p>
+<p>34.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>UNIT4 ASIA PACIFIC PTE. LTD.</p>
@@ -674,7 +712,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>33.</p>
+<p>35.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>WHYZE SOLUTIONS PTE. LTD.</p>
@@ -693,7 +731,7 @@ by MOM, via API.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>34.</p>
+<p>36.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ZEALYS PTE. LTD.</p>
