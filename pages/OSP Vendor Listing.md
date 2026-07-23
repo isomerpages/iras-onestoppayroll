@@ -148,7 +148,7 @@ by MOM, via API.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sales@avelogic.com" rel="noopener noreferrer nofollow" target="_blank">sales@avelogic.com</a> 
-<a href="mailto:support@avelogic.com" rel="noopener noreferrer nofollow" target="_blank">support@avelogic.com</a>
+<br><a href="mailto:support@avelogic.com" rel="noopener noreferrer nofollow" target="_blank">support@avelogic.com</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
